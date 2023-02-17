@@ -9,16 +9,11 @@ class TestFile
 	private $test_sections;
 	private $last_type_created = '';
 	private $possible_answer_letters = ['a', 'b', 'c', 'd', 'e', 'f'];
-	private $correct_answers_by_section = [
-		'13110202210212210033102112001321020222031231302120232101',
-		'32203311003001112323311311',
-		'103123102013232010101032132',
-		'112202322011112001101001303',
-		'211300122303130012311303103',
-	];
+	private $correct_answers_by_section;
 
-	public function __construct(string $file_name = '')
+	public function __construct(string $file_name = '', array $correct_answers)
 	{
+		$this->correct_answers_by_section = $correct_answers;
 		$this->file_name = $file_name;
 		$this->test_sections = [];
 	}
@@ -250,7 +245,7 @@ class TestFile
 		return $this->correct_answers_by_section;
 	}
 
-	public function getArrayFileContent()
+	public function getArrayFileContent($with_correct_answers = true)
 	{
 		$json_data = [];
 		$correct_answers = $this->getCorrectAnswers();
@@ -263,7 +258,9 @@ class TestFile
 				$question_text = $question->getQuestion();
 				$json_data[$section_name][] = [
 					'pregunta' => $question_text,
-					'respuestaCorrecta' => (int) $correct_answers[$s_i][$q_i],
+					'respuestaCorrecta' => $with_correct_answers
+						? (int) $correct_answers[$s_i][$q_i]
+						: 0,
 					'respuestas' => []
 				];
 				$answers = $question->getAnswers();
