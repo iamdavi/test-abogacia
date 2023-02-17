@@ -9,6 +9,13 @@ class TestFile
 	private $test_sections;
 	private $last_type_created = '';
 	private $possible_answer_letters = ['a', 'b', 'c', 'd', 'e', 'f'];
+	private $correct_answers_by_section = [
+		'13110202210212210033102112001321020222031231302120232101',
+		'32203311003001112323311311',
+		'103123102013232010101032132',
+		'112202322011112001101001303',
+		'211300122303130012311303103',
+	];
 
 	public function __construct(string $file_name = '')
 	{
@@ -48,6 +55,15 @@ class TestFile
 	public function parseLine(string $file_line)
 	{
 		$line = str_replace(array("\r", "\n"), '', $file_line);
+
+		if (
+			is_numeric($line)
+			|| $line == 'Preguntas de reserva'
+			|| $line == 'A. MATERIAS ESPECÍFICAS'
+			|| $line == 'Preguntas sobre derechos civiles forales'
+		) { // Skip dummy lines
+			return;
+		}
 
 		if ($section_title = $this->isNewSection($line)) { // New section
 			$this->createTestSection($section_title);
@@ -229,24 +245,30 @@ class TestFile
 		}
 	}
 
+	public function getCorrectAnswers()
+	{
+		return $this->correct_answers_by_section;
+	}
+
 	public function getArrayFileContent()
 	{
 		$json_data = [];
+		$correct_answers = $this->getCorrectAnswers();
 		$sections = $this->getAllTestSections();
-		foreach ($sections as $section) {
+		foreach ($sections as $s_i => $section) {
 			$section_name = $section->getName();
 			$json_data[$section_name] = [];
 			$questions = $section->getAllQuestions();
-			foreach ($questions as $key => $question) {
+			foreach ($questions as $q_i => $question) {
 				$question_text = $question->getQuestion();
 				$json_data[$section_name][] = [
 					'pregunta' => $question_text,
-					'respuestaCorrecta' => '',
+					'respuestaCorrecta' => (int) $correct_answers[$s_i][$q_i],
 					'respuestas' => []
 				];
 				$answers = $question->getAnswers();
 				foreach ($answers as $answer) {
-					$json_data[$section_name][$key]['respuestas'][] = $answer;
+					$json_data[$section_name][$q_i]['respuestas'][] = $answer;
 				}
 			}
 		}

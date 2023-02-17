@@ -2,7 +2,7 @@
     "COMUNES": [
         {
             "pregunta": "Durante el desarrollo del juicio en un procedimiento ordinario, Pedro, uno de los Abogados, plantea una cuestión incidental relativa a la capacidad y representación de su cliente por unos hechos ocurridos después de la audiencia previa. ¿Es el juicio el momento procesal hábil para plantear dicha cuestión incidental?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "No, dado que el planteamiento de las cuestiones incidentales únicamente es posible en los juicios verbales.",
                 "No, pues en el procedimiento ordinario no se admite el planteamiento de ninguna cuestión incidental una vez iniciado el juicio.",
@@ -12,7 +12,7 @@
         },
         {
             "pregunta": "Isabel, Abogada en ejercicio, ante la falta de contestación de Joan al requerimiento fehaciente de pago por ella efectuado, interpuso demanda contra él reclamando las cantidades que este adeudaba a su cliente. Joan, durante el plazo para contestar la demanda, se allanó totalmente a la pretensión de la parte actora. ¿Ha de ser Joan condenado en costas?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 3,
             "respuestas": [
                 "No, pues no procede condena en costas si el demandado se allana antes de contestar a la demanda.",
                 "Sí, pues únicamente no procede imposición de costas en los supuestos de desistimiento de la parte actora.",
@@ -22,7 +22,7 @@
         },
         {
             "pregunta": "Carmen, parte demandada, interpuso recurso de apelación contra la sentencia dictada por el Juzgado de Primera Instancia nº 6 de Salamanca por la que se estimaba totalmente las pretensiones de la parte actora. La Audiencia Provincial de Salamanca estimó parcialmente el recurso interpuesto por Carmen. ¿Procede la condena en costas de alguna de las partes en segunda instancia?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "Al ser una estimación parcial de un recurso presentado por una sola de las partes, corresponde imponer las costas causadas a su instancia a la parte que interpuso el recurso.",
                 "No, ya que en los casos de estimación total o parcial de un recurso de apelación no se condenará en las costas a ninguno de los litigantes.",
@@ -31,8 +31,8 @@
             ]
         },
         {
-            "pregunta": "Xoel decide interponer demanda contra Pepe, este no contesta a la demanda en el plazo concedido para ello y es declarado en rebeldía. Sin embargo, pese a la viabilidad de su pretensión, 3 Xoel cambia de opinión y decide desistir del pleito. ¿Puede Xoel desistir habiendo ya transcurrido el plazo para contestar a la demanda?",
-            "respuestaCorrecta": "",
+            "pregunta": "Xoel decide interponer demanda contra Pepe, este no contesta a la demanda en el plazo concedido para ello y es declarado en rebeldía. Sin embargo, pese a la viabilidad de su pretensión, Xoel cambia de opinión y decide desistir del pleito. ¿Puede Xoel desistir habiendo ya transcurrido el plazo para contestar a la demanda?",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "No, pues solo es posible desistir unilateralmente del juicio antes de que el demandado sea emplazado para contestar a la demanda o citado para el juicio.",
                 "Sí, al encontrarse el demandado en rebeldía.",
@@ -42,7 +42,7 @@
         },
         {
             "pregunta": "Pablo, Abogado en ejercicio desde hace cinco años, quiere apuntarse al turno de oficio del Colegio de la Abogacía en el que se halla inscrito y en el que se encuentra situado su despacho. ¿Qué requisitos generales mínimos ha de cumplir Pablo para poder prestar servicios como Abogado de oficio?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "Tener radicado su despacho, único o principal, en el ámbito del Colegio responsable del servicio, y estar inscrito en este. Acreditar más de tres años de ejercicio efectivo de la profesión. Haber superado los cursos o pruebas de acceso a los servicios, establecidos por las Juntas de Gobierno de los Colegios de la Abogacía, salvo dispensa motivada otorgada por el Colegio.",
                 "Tener radicado su despacho, único o principal, en el ámbito del Colegio responsable del servicio, y estar inscrito en este. Acreditar más de seis años de ejercicio efectivo de la profesión. Haber superado los cursos o pruebas de acceso a los servicios, establecidos por las Juntas de Gobierno de los Colegios de la Abogacía.",
@@ -52,7 +52,7 @@
         },
         {
             "pregunta": "Naira, funcionaria de profesión y con capacidad económica acreditada, ha sido víctima de un delito contra su libertad sexual perpetrado por su expareja. ¿Tiene Naira derecho a la asistencia jurídica gratuita?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "No, pues la asistencia jurídica gratuita solo está reservada para aquellas personas que acrediten insuficiencia de recursos para litigar.",
                 "No, porque las víctimas de violencia de género se encuentran fuera de la Ley de asistencia jurídica gratuita al tener un régimen especial para pleitos previsto en su normativa específica.",
@@ -61,8 +61,8 @@
             ]
         },
         {
-            "pregunta": "Carme, Abogada de la parte a la que le ha sido reconocida el derecho a costas, tras presentar solicitud de tasación, no está conforme con la tasación practicada por el Letrado de la Administración de Justicia por no haber incluido gastos debidamente justificados y reclamados. ¿Puede impugnar Carme la tasación? 4",
-            "respuestaCorrecta": "",
+            "pregunta": "Carme, Abogada de la parte a la que le ha sido reconocida el derecho a costas, tras presentar solicitud de tasación, no está conforme con la tasación practicada por el Letrado de la Administración de Justicia por no haber incluido gastos debidamente justificados y reclamados. ¿Puede impugnar Carme la tasación?",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "Sí, para ello deberá dirigir escrito al Letrado de la Administración de Justicia que dará traslado a la otra parte por tres días para que se pronuncie sobre la inclusión o exclusión de las partidas reclamadas. Si el Letrado de la Administración de Justicia, mediante decreto, desestimare la impugnación, podrá Carme interponer los recursos previstos legalmente.",
                 "Sí, mediante la interposición directa de recurso contra la tasación.",
@@ -72,7 +72,7 @@
         },
         {
             "pregunta": "Julia, quien es beneficiaria de asistencia jurídica gratuita, tiene como Abogado a Andrés en un pleito relativo a una herencia. Sin embargo, Andrés tiene una amplia cartera de clientes y, pese a estar apuntado al turno de asistencia gratuita, considera que ya no tiene edad para llevar ese tipo de pleitos y plantea excusarse de su designación. ¿Puede Andrés excusarse de su designación?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "Sí, en todo caso, siempre que concurra motivo personal y justo que deberá ser apreciado por el Decano del Colegio de la Abogacía.",
                 "Sí, siempre que, concurriendo motivo personal y justo, presente a un compañero dispuesto a sustituirle en sus funciones.",
@@ -82,7 +82,7 @@
         },
         {
             "pregunta": "Según la Ley Orgánica del Poder Judicial los Juzgados de Paz,",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "Se establecen en todos aquellos municipios en los que exista, al menos, un Juzgado de Primera Instancia e Instrucción.",
                 "Carecen actualmente de competencias al haber sido estas absorbidas por los Juzgados de Primera Instancia.",
@@ -96,9 +96,9 @@
         },
         {
             "pregunta": "Jorge ha superado el Máster de Acceso a la Abogacía y el correspondiente examen estatal de acceso a la profesión de la Abogacía. Tras ello, ha decidido poner en su despacho una placa con la denominación de Abogado. ¿Es correcta su actuación?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
-                "Solo si previamente se ha incorporado a un Colegio de la Abogacía como ejerciente. 5",
+                "Solo si previamente se ha incorporado a un Colegio de la Abogacía como ejerciente.",
                 "No, pues la denominación de Abogado\/a corresponde, exclusivamente, a quienes se encuentren incorporados a un Colegio de la Abogacía ya como ejerciente o como no ejerciente.",
                 "Sí, pues la superación del máster y el examen de acceso a la abogacía permiten utilizar la denominación de Abogado\/a a pesar de no estar inscritos en ningún Colegio de la Abogacía.",
                 "Sí, pues el Estatuto General de la Abogacía le permite hacer publicidad."
@@ -106,7 +106,7 @@
         },
         {
             "pregunta": "Manuel, Abogado en ejercicio, ha llegado a un acuerdo con el celador del Hospital General de su ciudad para que este facilite la tarjeta profesional de aquel a los lesionados por accidente de tráfico y a sus familiares en el momento de su ingreso hospitalario. Todo ello, con la finalidad de que los lesionados contraten sus servicios. ¿Cómo ha de considerarse esta práctica?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "Perfectamente válida ya que los profesionales de la Abogacía pueden realizar libremente publicidad de sus servicios.",
                 "Ilegal solo en el caso de que el Abogado oculte a los lesionados que fue él quien usó de intermediario al celador para hacerles llegar su tarjeta.",
@@ -116,7 +116,7 @@
         },
         {
             "pregunta": "Ayoze, Abogado en ejercicio, tiene dudas acerca del tipo de gravamen que tiene que aplicar en una minuta que tiene que girar a un cliente con ocasión de un procedimiento relativo a una reclamación civil prestado este año de 2022. Indique la respuesta correcta.",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "Tipo cero.",
                 "Tipo 21 %.",
@@ -126,7 +126,7 @@
         },
         {
             "pregunta": "Alejandro, Abogado, tiene multitud de desacuerdos con su cliente y, pese a que la próxima semana tendrá lugar el esperado juicio, decide renunciar a la defensa procesal de aquel. ¿Puede Alejandro renunciar a su encargo en ese momento procesal?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "No, pues la renuncia solo puede manifestarse después del juicio para evitar la indefensión del cliente.",
                 "Sí, siempre que, comunicada al Juzgado con la debida antelación, el Juez estime dicha renuncia pertinente y justificada.",
@@ -136,17 +136,17 @@
         },
         {
             "pregunta": "¿Qué sanción puede imponer el Colegio de la Abogacía a los profesionales de la Abogacía?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "El apercibimiento verbal.",
                 "La reprensión privada.",
                 "El apercibimiento escrito.",
-                "Inhabilitación especial para el ejercicio de la profesión de la Abogacía. 6"
+                "Inhabilitación especial para el ejercicio de la profesión de la Abogacía."
             ]
         },
         {
             "pregunta": "¿De acuerdo con el Estatuto General de la Abogacía, es infracción leve ofender levemente al Abogado\/a de la parte contraria?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "Sí, siempre que la ofensa sea en público de forma oral.",
                 "Sí, siempre que sea en comunicación privada, oral o escrita, y no haya trascendido la ofensa.",
@@ -156,7 +156,7 @@
         },
         {
             "pregunta": "¿Cómo se estructuran, según la Ley Orgánica del Poder Judicial, las Audiencias Provinciales?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "En Secciones.",
                 "En Secciones, Salas y Pleno.",
@@ -166,7 +166,7 @@
         },
         {
             "pregunta": "Edurne, Abogada de profesión, comparece como acusada en un juicio por la presunta comisión de un delito de apropiación indebida, si bien ejerce su defensa propia en colaboración con otro Abogado. ¿En qué lugar deberá situarse Edurne en Sala?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "Ocupará el sitio de los profesionales de la Abogacía usando la toga.",
                 "En el banquillo de los acusados, aunque pudiendo usar la toga de profesional de la Abogacía.",
@@ -176,7 +176,7 @@
         },
         {
             "pregunta": "Establece la Ley Orgánica del Poder Judicial que a solos efectos prejudiciales:",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "Cada orden jurisdiccional podrá conocer de todos los asuntos que no le estén atribuidos privativamente siempre que se trate de cuestiones devolutivas.",
                 "La Ley Orgánica del Poder Judicial no hace mención alguna al régimen de las cuestiones prejudiciales.",
@@ -186,17 +186,17 @@
         },
         {
             "pregunta": "Sabela, Abogada de profesión, ha dejado de prestar sus servicios a Federico, quien debido a su vieja amistad ha autorizado expresamente a aquella para revelar sus entrevistas amparadas bajo secreto profesional. ¿Puede entonces Sabela desvelar el contenido de las conversaciones que tuvo con Federico como cliente suyo?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 3,
             "respuestas": [
                 "Sí, en todos los extremos y personas referidos en las conversaciones al habérselo autorizado expresamente su cliente.",
                 "No, el deber de secreto profesional permanece incluso después de haber cesado en la prestación de los servicios al cliente, sin excepción alguna.",
-                "No, pues la única excepción en el deber de secreto profesional consiste en la obligación de prestar 7 declaración en juicio como testigo haya habido o no autorización por parte de su cliente.",
+                "No, pues la única excepción en el deber de secreto profesional consiste en la obligación de prestar declaración en juicio como testigo haya habido o no autorización por parte de su cliente.",
                 "Sí, pero solo sobre aquello que únicamente afecte o se refiera a su cliente, al haberle este autorizado expresamente."
             ]
         },
         {
             "pregunta": "El ejercicio por cuenta ajena en régimen laboral de un profesional de la Abogacía:",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 3,
             "respuestas": [
                 "Constituye, en todo caso, una relación laboral de carácter especial expresamente catalogada en el Estatuto de los Trabajadores.",
                 "Podrá ejercerse por cuenta ajena como profesional de la Abogacía de empresa en régimen de relación laboral común.",
@@ -206,7 +206,7 @@
         },
         {
             "pregunta": "Joan Manuel, Abogado de profesión, fue sancionado disciplinariamente por el Colegio de la Abogacía al que pertenece por la comisión de una infracción muy grave. ¿Cuándo prescribe, con carácter general, la sanción impuesta a Joan Manuel?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "A los tres años a contar desde el día siguiente a que la sanción pueda ser ejecutada.",
                 "A los cinco años a contar desde el día siguiente a que la sanción pueda ser ejecutada.",
@@ -216,7 +216,7 @@
         },
         {
             "pregunta": "Se inicia un procedimiento en España cuyo conocimiento corresponde a los Tribunales españoles conforme a las normas vigentes y circunstancias concurrentes en el momento de presentación de la demanda. Sin embargo, durante su tramitación, las normas iniciales han sido modificadas ¿Deben los Tribunales españoles continuar conociendo del litigio?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "No, pues la alteración de normas y circunstancias determina el cambio del órgano competente para dirimir el litigio.",
                 "Sí, en todo caso.",
@@ -226,7 +226,7 @@
         },
         {
             "pregunta": "Alexandre considera que ha sido vulnerado su derecho a la tutela judicial efectiva por el Tribunal que juzgaba su causa ¿Qué plazo tiene Alexandre para interponer recurso de amparo ante el Tribunal Constitucional?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "En los diez días siguientes a la notificación de la resolución recaída en el previo proceso judicial.",
                 "En los treinta días siguientes a la notificación de la resolución recaída en el previo proceso judicial.",
@@ -235,8 +235,8 @@
             ]
         },
         {
-            "pregunta": "Siete años después de la notificación de la resolución que puso fin al procedimiento, Santiago cae en la cuenta, al revisar la documentación, de que padeció efectiva indefensión en sus 8 derechos e intereses legítimos, durante la tramitación de aquel procedimiento al no haberse respetado las normas esenciales por parte del órgano judicial. En el momento actual, Santiago no puede ya interponer recurso ordinario ni extraordinario. ¿Puede Santiago todavía plantear incidente excepcional de nulidad de las actuaciones?",
-            "respuestaCorrecta": "",
+            "pregunta": "Siete años después de la notificación de la resolución que puso fin al procedimiento, Santiago cae en la cuenta, al revisar la documentación, de que padeció efectiva indefensión en sus derechos e intereses legítimos, durante la tramitación de aquel procedimiento al no haberse respetado las normas esenciales por parte del órgano judicial. En el momento actual, Santiago no puede ya interponer recurso ordinario ni extraordinario. ¿Puede Santiago todavía plantear incidente excepcional de nulidad de las actuaciones?",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "Sí, pues este incidente, al ser excepcional, puede plantearse en cualquier momento desde que se tuvo conocimiento del defecto causante de la indefensión.",
                 "No, pues no procede solicitar la nulidad de las actuaciones después de transcurridos cinco años desde la notificación de la resolución que hubiera adquirido firmeza.",
@@ -246,7 +246,7 @@
         },
         {
             "pregunta": "Llegado el momento final de un juicio, el Juez, al considerase suficientemente instruido de la controversia, decide dictar sentencia en forma oral ¿Está facultado el Juez para dictar sentencia de viva voz?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "Sí, en todo caso, sin perjuicio de su ulterior redacción.",
                 "No, la posibilidad de dictar sentencia in voce está expresamente prohibida por la Ley Orgánica del Poder Judicial.",
@@ -256,7 +256,7 @@
         },
         {
             "pregunta": "Lola ha sido expropiada por el gobierno de su Comunidad Autónoma de una finca de su propiedad por motivos de utilidad pública. Una vez dirimida la cuestión por los Tribunales, estos consideran que dicha expropiación es conforme a derecho rechazando las pretensiones de Lola. Debido a ello, esta acude en amparo al Tribunal Constitucional por considerar vulnerado su derecho a la tutela judicial efectiva y a la propiedad. ¿Son susceptibles estos derechos de amparo constitucional?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "Solamente por el derecho previsto en el artículo 24 de la Constitución.",
                 "Solamente por el derecho previsto en el artículo 33 de la Constitución.",
@@ -266,17 +266,17 @@
         },
         {
             "pregunta": "Quima quiere colegiarse como Abogada, sin embargo, en su Hoja Histórico Penal constan vigentes antecedentes penales derivados de una condena por delito leve de lesiones. ¿Está circunstancia es obstáculo para que Quima pueda colegiarse?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "No, en ningún caso.",
                 "Sí, en todo caso.",
                 "Sí, salvo dispensa expresa otorgada por el Colegio de la Abogacía.",
-                "No, dado que los únicos antecedentes que impiden la colegiación son los derivados de delitos graves. 9"
+                "No, dado que los únicos antecedentes que impiden la colegiación son los derivados de delitos graves."
             ]
         },
         {
             "pregunta": "Miguel, Abogado en ejercicio, y miembro, a su vez del Colegio de Mediadores, quiere presentarse a las elecciones a Decano de su Colegio de la Abogacía. ¿Está permitido concurrir a las elecciones del Colegio de la Abogacía siendo miembro de otro colegio profesional?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "No, la membresía a otro colegio profesional es causa de inelegibilidad en las elecciones a Decano.",
                 "Sí, siempre que no sea miembro de los órganos rectores del otro colegio profesional.",
@@ -286,7 +286,7 @@
         },
         {
             "pregunta": "Soledad, Abogada en ejercicio, ha sido informada de que su cliente, Benito, ha sido detenido por la presunta comisión de un delito leve de usurpación. Debido a ello y enterada de dichas circunstancias, Soledad solicitó procedimiento de Habeas Corpus para exigir la inmediata puesta en libertad de su cliente. ¿Está Soledad legitimada para solicitar el Habeas Corpus?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "No, el Abogado de la persona detenida no está legitimado para instar un procedimiento de Habeas Corpus.",
                 "No, al tratarse de un delito leve.",
@@ -296,7 +296,7 @@
         },
         {
             "pregunta": "La localidad de Torre del Mar pertenece al municipio de Vélez-Málaga, municipio íntegramente incluido en el partido judicial de Vélez-Málaga. En el Ayuntamiento se está planteando la segregación de Torre del Mar para constituirse en municipio independiente. Si prosperase esta propuesta, ¿a qué partido judicial corresponderá Torre del Mar?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 3,
             "respuestas": [
                 "La segregación o fusión de municipios es una cuestión que no afecta a la organización judicial al ser esta una competencia asumida por las Comunidades Autónomas.",
                 "Constituirá un nuevo partido judicial si la parte segregada es superior en población a la del partido judicial de origen.",
@@ -306,7 +306,7 @@
         },
         {
             "pregunta": "Matías, Abogado en ejercicio, se encuentra en conversaciones por vía email con Patricia, también Abogada en ejercicio, con la finalidad de llegar a un acuerdo para zanjar el pleito que existe entre sus clientes. Sin embargo, pese a que inicialmente el cliente de Patricia era favorable al acuerdo, finalmente prefiere celebrar el juicio. ¿Puede aportar Matías las conversaciones mantenidas con Patricia como prueba al juicio?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "Sí, pero solo como prueba documental a efectos de que el Juez lo valore conforme a las normas de la sana crítica.",
                 "No, con carácter general.",
@@ -315,8 +315,8 @@
             ]
         },
         {
-            "pregunta": "Rebeca, condenada como autora de un delito leve de amenazas por el Juzgado de Instrucción nº 4 de Cartagena, pretende recurrir el fallo desfavorable. ¿Ante qué Juzgado tendrá que interponer el recurso de apelación? 10",
-            "respuestaCorrecta": "",
+            "pregunta": "Rebeca, condenada como autora de un delito leve de amenazas por el Juzgado de Instrucción nº 4 de Cartagena, pretende recurrir el fallo desfavorable. ¿Ante qué Juzgado tendrá que interponer el recurso de apelación?",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "Ante la Audiencia Provincial de Murcia.",
                 "Ante los Juzgados de lo Penal de Cartagena.",
@@ -326,7 +326,7 @@
         },
         {
             "pregunta": "Sustanciado un procedimiento civil, Sofía, Jueza que conoce del litigio, llega al convencimiento de que para decidir el objeto litigioso del proceso es necesario resolver sobre una cuestión que es, a su vez, objeto principal de otro proceso pendiente ante otro Tribunal civil. Ante esta circunstancia, ¿qué puede hacer Sofía?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "Si lo piden ambas partes, acordar la suspensión de las actuaciones, una vez que el proceso esté pendiente solo de sentencia, siempre que no fuera posible acumulación.",
                 "Si lo piden ambas partes, acordar la suspensión de las actuaciones, en el momento en el que se hallen, hasta que finalice el otro proceso.",
@@ -336,7 +336,7 @@
         },
         {
             "pregunta": "Germán y Ángel solicitan el inicio de un expediente de jurisdicción voluntaria para el deslinde de sus fincas colindantes inscritas. La finca de Germán está valorada en 5.000 € y la de Ángel en 30.000 € ¿Necesitan Germán y Ángel estar asistidos de Abogados para la tramitación de este expediente?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "No, en ningún caso.",
                 "Solo Ángel al superar su finca el valor de 6.000 €.",
@@ -346,7 +346,7 @@
         },
         {
             "pregunta": "Durante la tramitación de un convenio arbitral, Violeta, cliente de Marta, teme que si no se actúa a tiempo sus pretensiones pierdan virtualidad, por lo que indica a su Abogada que solicite medida cautelar para asegurar la efectividad de lo decidido en el laudo. ¿Qué órgano será competente para la adopción judicial de dicha medida cautelar?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "El Árbitro encargado del procedimiento arbitral.",
                 "El Tribunal del lugar donde las medidas deban producir su eficacia, en todo caso.",
@@ -355,8 +355,8 @@
             ]
         },
         {
-            "pregunta": "Sonia, quien es clienta de Yolanda, Abogada en ejercicio, le pide a esta que, aprovechando que Antonio, persona contra la que pretende iniciar un pleito, carece de asistencia letrada, le convenza para que se allane a las pretensiones de Sonia. ¿Puede Yolanda dirigirse a Antonio en dichos términos? 11",
-            "respuestaCorrecta": "",
+            "pregunta": "Sonia, quien es clienta de Yolanda, Abogada en ejercicio, le pide a esta que, aprovechando que Antonio, persona contra la que pretende iniciar un pleito, carece de asistencia letrada, le convenza para que se allane a las pretensiones de Sonia. ¿Puede Yolanda dirigirse a Antonio en dichos términos?",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "No, salvo que le indique a Antonio que se dirige a él como Abogada de Sonia.",
                 "Sí, siempre que le indique a Antonio que se dirige a él como Abogada de Sonia.",
@@ -366,7 +366,7 @@
         },
         {
             "pregunta": "Vicente, Abogado en ejercicio, comparece ante el Juzgado de Primera Instancia e Instrucción nº 1 de San Javier para ejercer la defensa de Tomás, cliente de aquel, investigado por tráfico de drogas y que se encuentra en situación de prisión provisional. Alfonso, Abogado de la parte contraria en ejercicio de la acusación particular, comunica al Juzgado que debido a un accidente en la carretera puede que se retrase más de una hora sin poder precisar exactamente cuánto tiempo podrá tardar en llegar a la declaración. ¿Qué debe hacer Vicente ante esta circunstancia?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "Puede optar entre darle un tiempo prudencial de espera o exigir la inmediata celebración del acto al estar ya constituida como acusación el Ministerio Fiscal.",
                 "Está obligado a exigir la inmediata celebración de vista, a efectos de evitar dilaciones para su cliente al estar en situación de prisión provisional.",
@@ -376,7 +376,7 @@
         },
         {
             "pregunta": "Tras dictarse sentencia en la que se desestima la acción de anulación de un laudo arbitral en un asunto sometido a arbitraje, Àngels, cliente de Cristóbal, Abogado en ejercicio, no está conforme, por lo que indica a este que solicite su impugnación. ¿De qué plazo dispone Cristóbal para recurrir dicha sentencia?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "No cabe recurso contra la sentencia que desestima la acción de anulación del laudo arbitral.",
                 "Dos meses a contar desde su notificación o, en caso de que se haya solicitado corrección, aclaración o complemento, desde la notificación de la resolución sobre esta solicitud, o desde la expiración del plazo para adoptarla.",
@@ -386,17 +386,17 @@
         },
         {
             "pregunta": "El Juzgado de lo Mercantil nº 3 de Zaragoza decide plantear cuestión prejudicial ante el Tribunal de Justicia de la Unión Europea. Indique cuál es el procedimiento a seguir.",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "Deberá hacerlo de conformidad con el procedimiento previsto para el planteamiento de una cuestión de inconstitucionalidad.",
                 "De acuerdo con la jurisprudencia del Tribunal de Justicia de la Unión Europea, los órganos que conozcan asuntos en primera instancia no están facultados para plantear cuestión prejudicial ante el Tribunal de Justicia de la Unión Europea sino ante el Tribunal General de la Unión Europea.",
-                "Deberá hacerlo de conformidad con la jurisprudencia del Tribunal de Justicia de la Unión Europea y, en todo caso, mediante auto, previa audiencia de las partes y del Ministerio Fiscal. 12",
+                "Deberá hacerlo de conformidad con la jurisprudencia del Tribunal de Justicia de la Unión Europea y, en todo caso, mediante auto, previa audiencia de las partes y del Ministerio Fiscal.",
                 "Deberá hacerlo de conformidad con la jurisprudencia del Tribunal de Justicia de la Unión Europea y, en todo caso, mediante auto, previa audiencia de las partes."
             ]
         },
         {
             "pregunta": "Alejandra, Abogada en ejercicio, actúa representando los intereses de importantes sociedades mercantiles con facturaciones superiores a veinte millones de euros cada una. Cuenta con las coberturas generales del seguro de responsabilidad civil colectivo que su colegio profesional ofrece a todos sus colegiados. El capital asegurado de esa póliza por colegiado es de 250.000 €. ¿Cuál de las siguientes respuestas es correcta?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 3,
             "respuestas": [
                 "Alejandra es diligente al confiar en la cobertura que el seguro de responsabilidad civil profesional que su colegio profesional le brinda.",
                 "No tiene suficientemente cubierta su responsabilidad civil, al no contar con una cobertura adecuada de los riesgos que su actividad profesional supone.",
@@ -406,7 +406,7 @@
         },
         {
             "pregunta": "Martina encargó a Caridad, Abogada en ejercicio, la reclamación de las lesiones sufridas como consecuencia de un accidente de tráfico. Caridad, presentó su demanda en plazo, cumpliendo con todos los requisitos procesales y realizando las alegaciones fácticas y jurídicas pertinentes al asunto. No obstante, la demanda fue desestimada tanto en primera como en segunda instancia, por acoger los Tribunales dirimentes las alegaciones de la parte demandada. Martina no acepta estas decisiones judiciales. Considera que Caridad es responsable de la falta de éxito de su acción y se plantea ejercitar una acción de responsabilidad civil profesional contra ella. ¿Cuál de las siguientes respuestas es correcta?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "Es viable la acción de responsabilidad civil contra Caridad, toda vez que se ha producido un perjuicio para su cliente al no haber sido estimada su demanda.",
                 "Es viable la reclamación por responsabilidad civil a la Abogada teniendo derecho Martina a reclamar, por la pérdida de oportunidad, la cantidad que había sido objeto de demanda.",
@@ -416,17 +416,17 @@
         },
         {
             "pregunta": "¿En cuál de los siguientes supuestos no habrá de satisfacerse la tasa por el ejercicio de la potestad jurisdiccional?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "Cuando se solicite concurso necesario por el deudor persona jurídica constituido en Sociedad Limitada a la que se le ha reconocido el derecho a la asistencia jurídica gratuita.",
                 "Para presentación de petición inicial del procedimiento monitorio en reclamación de cantidad de 3.000 €.",
-                "En los recursos contencioso-administrativos interpuestos por una Administración Pública cuando se trate litigios donde no gozaban de prerrogativas procesales. 13",
+                "En los recursos contencioso-administrativos interpuestos por una Administración Pública cuando se trate litigios donde no gozaban de prerrogativas procesales.",
                 "Cuando se interponga demanda de ejecución de laudos dictados por las Juntas Arbitrales de Consumo."
             ]
         },
         {
             "pregunta": "Lucía va a ejercer por cuenta ajena en un despacho profesional y quiere darse de alta en la Mutualidad General. ¿Es posible esta opción?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 3,
             "respuestas": [
                 "No, porque al trabajar por cuenta ajena tiene que darse de alta en el Régimen General de la Seguridad Social.",
                 "Sí, como complemento a las prestaciones que tendrá de la Seguridad Social.",
@@ -436,7 +436,7 @@
         },
         {
             "pregunta": "Son titulares del derecho a la tutela judicial efectiva:",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "Los españoles, los ciudadanos de la Unión Europea, las personas jurídicas públicas y privadas.",
                 "Los españoles, los extranjeros, las personas jurídico privadas y las personas jurídico públicas en todo caso.",
@@ -446,7 +446,7 @@
         },
         {
             "pregunta": "Mateo, Abogado de profesión, es requerido por Alberto para que ejerza como su Abogado en un procedimiento penal. Sin embargo, Mateo, declina dicha petición, al no ser el derecho penal su especialidad, recomendando en su lugar a su compañera María Teresa que sí es especialista en la materia ¿Puede Mateo exigir algún tipo de compensación a María Teresa por haberle enviado un cliente?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 3,
             "respuestas": [
                 "No, salvo que informase al cliente de dicha circunstancia.",
                 "No, pero sí podrá aceptar la compensación que voluntariamente Teresa decida hacerle en gratitud.",
@@ -456,17 +456,17 @@
         },
         {
             "pregunta": "Durante el desarrollo de un procedimiento, Begoña, Abogada en ejercicio, ha recibido una serie de cantidades de su cliente Ernesto, para el pago de distintos gastos que se han ido generando durante la tramitación del pleito, que se hallan depositadas en una cuenta especial designada a tal efecto. Una vez finalizado el encargo profesional, ¿puede Begoña detraer de la cuenta cantidades en concepto de honorarios?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "Sí, pues los profesionales de la Abogacía tienen derecho a una contraprestación por sus servicios, así como al reintegro de los gastos ocasionados.",
                 "No, pues está expresamente prohibida la realización de cualquier pago a cargo de este tipo de depósitos.",
                 "No, salvo autorización expresa y escrita de Ernesto.",
-                "No, salvo que Begoña se lo hubiera anunciado a Ernesto en la hoja de encargo. 14"
+                "No, salvo que Begoña se lo hubiera anunciado a Ernesto en la hoja de encargo."
             ]
         },
         {
             "pregunta": "Guiomar, Abogada en ejercicio, interviene por cuenta de dos personas en un asunto en el que entre ellas hay un grave desacuerdo, existiendo, por tanto, un significativo riesgo de conflicto entre los intereses de esos clientes. ¿Puede Guiomar seguir interviniendo en dicho asunto?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "No, al impedirlo expresamente el Estatuto General de la Abogacía.",
                 "Sí, como mediador y en la preparación y redacción de documentos de naturaleza contractual.",
@@ -476,7 +476,7 @@
         },
         {
             "pregunta": "Aitor, a quien le ha sido designado Jonay como Abogado por el turno de oficio, decide designar un Abogado particular, pese haberle sido reconocido el derecho a la asistencia jurídica gratuita. ¿La designación de abogado particular impide el disfrute del derecho a la asistencia jurídica gratuita?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "Sí, debiéndose reembolsar todas aquellas prestaciones que se hubiesen obtenido como consecuencia del reconocimiento de su derecho a litigar gratuitamente.",
                 "Sí, pues la contratación de servicios de un Abogado particular es un indicio de capacidad económica incompatible con el reconocimiento del derecho a la asistencia jurídica gratuita.",
@@ -486,12 +486,12 @@
         },
         {
             "pregunta": "Meritxell, asistida por Abogada del turno de oficio, obtuvo fallo favorable en la primera instancia de un procedimiento civil en el año 2019. Sin embargo, por diversos retrasos, la ejecución de sentencia no ha comenzado hasta el año 2022. ¿Tiene obligación su Abogada de oficio de continuar asistiendo a Meritxell pese al paso del tiempo?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "No, al haber transcurrido más de dos años desde el dictado de la resolución judicial y de la realización de actuaciones procesales de ejecución.",
                 "No, al haber transcurrido más de un año desde el dictado de la resolución judicial y de la realización de actuaciones procesales de ejecución.",
                 "Sí, pues es obligación del Abogado designado por el turno de oficio desempeñar sus funciones de forma real y efectiva hasta la finalización del procedimiento.",
-                "No, salvo que se tratase de un asunto penal. Preguntas de reserva 1 –Unai, Abogado en ejercicio, tiene dudas acerca de los conceptos que tiene que incluir en la base imponible a la que tiene que aplicar el tipo de gravamen en el Impuesto Sobre el Valor Añadido (IVA), de una operación que ha consistido en asesorar a un cliente en la firma de un contrato con una Administración pública. Sabe que esa base imponible está constituida por el importe total de la contraprestación. Está pensando hacerle un descuento a su cliente del 10 por 100 simultáneamente al momento en que la operación se realice y en función de ella. Indique la respuesta correcta. 15",
+                "No, salvo que se tratase de un asunto penal. 1 –Unai, Abogado en ejercicio, tiene dudas acerca de los conceptos que tiene que incluir en la base imponible a la que tiene que aplicar el tipo de gravamen en el Impuesto Sobre el Valor Añadido (IVA), de una operación que ha consistido en asesorar a un cliente en la firma de un contrato con una Administración pública. Sabe que esa base imponible está constituida por el importe total de la contraprestación. Está pensando hacerle un descuento a su cliente del 10 por 100 simultáneamente al momento en que la operación se realice y en función de ella. Indique la respuesta correcta.",
                 "Ninguno de los descuentos se incluyen en la base imponible.",
                 "Únicamente se incluyen en la base imponible los descuentos practicados a cada cliente al final de año en función del volumen total de las operaciones realizadas con él.",
                 "Únicamente se incluyen en la base imponible los descuentos y bonificaciones que se concedan previa y simultáneamente al momento en que la operación se realice y en función de ella.",
@@ -500,7 +500,7 @@
         },
         {
             "pregunta": "Nauzet va a iniciar su actividad profesional de Abogado como autónomo y no sabe si ha de darse de alta por el Impuesto sobre Actividades Económicas (IAE). Indique la respuesta correcta.",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "No tiene que darse de alta en dicho impuesto hasta que lleve cinco años ejerciendo.",
                 "Tiene que darse de alta en dicho impuesto si tiene previsto prestar servicios a empresas, pero no a personas físicas.",
@@ -510,7 +510,7 @@
         },
         {
             "pregunta": "Margarita, Abogada en ejercicio, presta sus servicios como autónoma dependiente. ¿Debe tener obligatoriamente una cobertura de previsión social a través de una mutualidad constituida por su colegio profesional?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "No es obligatorio, salvo que trabaje por cuenta propia a tiempo parcial.",
                 "Sí, es obligatorio durante los cinco primeros años de ejercicio profesional.",
@@ -520,7 +520,7 @@
         },
         {
             "pregunta": "Las Mutualidades de previsión social alternativa al Régimen Especial de Autónomos (RETA), ¿pueden ofrecer a los mutualistas otras prestaciones diferentes a las que ofrece el sistema público de la Seguridad Social?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 3,
             "respuestas": [
                 "Tienen que ofrecer las mismas prestaciones que ofrece el sistema privado.",
                 "Tienen que ofrecer, además de las mismas prestaciones que ofrece el sistema público, todo tipo de coberturas de jubilación, entre otras.",
@@ -529,8 +529,8 @@
             ]
         },
         {
-            "pregunta": "Diego, Abogado en ejercicio, quiere reclamar a Félix, cliente suyo, el pago de los honorarios devengados en el asunto en el que le representó. Sin embargo, antes de poder reclamar, Diego 16 fallece. ¿Es necesario que los herederos de Diego vengan asistidos de Abogado para requerir de pago en el procedimiento de Jura de Cuentas a Félix?",
-            "respuestaCorrecta": "",
+            "pregunta": "Diego, Abogado en ejercicio, quiere reclamar a Félix, cliente suyo, el pago de los honorarios devengados en el asunto en el que le representó. Sin embargo, antes de poder reclamar, Diego fallece. ¿Es necesario que los herederos de Diego vengan asistidos de Abogado para requerir de pago en el procedimiento de Jura de Cuentas a Félix?",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "No, en ningún caso.",
                 "Sí, a diferencia del propio Diego que no necesitaba Abogado al ser él mismo el profesional de la Abogacía afectado por el impago.",
@@ -540,19 +540,19 @@
         },
         {
             "pregunta": "¿Una sociedad profesional dedicada al asesoramiento jurídico ha sufrido una violación de seguridad que afecta a los datos personales de sus clientes? ¿Cómo debe proceder la sociedad ante dicha violación?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "Deberá notificar, en todo caso, la violación a la autoridad de control competente en materia de protección de datos.",
                 "Deberá notificar la violación de seguridad a la autoridad de control competente en materia de protección de datos, si es probable que dicha violación constituya un riesgo para los derechos y libertades de los afectados.",
                 "Deberá notificar la violación de seguridad a su delegado de protección de datos.",
-                "El Código Deontológico de la Abogacía y el deber de secreto profesional exime de la obligación de notificar a ninguna autoridad sobre este tipo de violaciones de seguridad. A. MATERIAS ESPECÍFICAS"
+                "El Código Deontológico de la Abogacía y el deber de secreto profesional exime de la obligación de notificar a ninguna autoridad sobre este tipo de violaciones de seguridad."
             ]
         }
     ],
     "CIVIL- MERCANTIL": [
         {
             "pregunta": "Para el cómputo de los años de la mayoría de edad, ¿cómo se computará el día del nacimiento?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 3,
             "respuestas": [
                 "Se incluirá el día del nacimiento desde las 12.00 horas.",
                 "Se incluirá el día del nacimiento desde las 18.00 horas.",
@@ -562,17 +562,17 @@
         },
         {
             "pregunta": "Conforme a la Ley de Enjuiciamiento Civil, ¿cómo se producirá la apreciación de la falta de competencia internacional o de jurisdicción?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "Solo podrá denunciarse mediante declinatoria del demandado.",
                 "Se acordará solo de oficio.",
                 "Se podrá acordar de oficio o mediante declinatoria del demandado.",
-                "La apreciación de la falta de competencia internacional o de jurisdicción no podrá acordarse de ninguna forma. 17"
+                "La apreciación de la falta de competencia internacional o de jurisdicción no podrá acordarse de ninguna forma."
             ]
         },
         {
             "pregunta": "¿De quién depende el Registro Civil?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "De las Cortes Generales.",
                 "Del Consejo General del Poder Judicial.",
@@ -582,7 +582,7 @@
         },
         {
             "pregunta": "En materia de ejecución …",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "La acción ejecutiva fundada en sentencia, en resolución del Tribunal o del Letrado de la Administración de Justicia que apruebe una transacción judicial o un acuerdo alcanzado en el proceso, en resolución arbitral o en acuerdo de mediación caducará si no se interpone la correspondiente demanda ejecutiva dentro de los cinco años siguientes a la firmeza de la sentencia o resolución.",
                 "La acción ejecutiva fundada en sentencia, en resolución del Tribunal o del Letrado de la Administración de Justicia que apruebe una transacción judicial o un acuerdo alcanzado en el proceso, en resolución arbitral o en acuerdo de mediación caducará si no se interpone la correspondiente demanda ejecutiva dentro de los dos años siguientes a la firmeza de la sentencia o resolución.",
@@ -592,7 +592,7 @@
         },
         {
             "pregunta": "Brais y Uxía, que están casados, están pensando poner conjuntamente una demanda de divorcio de mutuo acuerdo. ¿Qué efecto se produce con la admisión de la demanda de nulidad, separación o divorcio?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 3,
             "respuestas": [
                 "Los cónyuges podrán vivir separados y cesa la presunción de convivencia conyugal.",
                 "Quedan revocados los consentimientos y poderes que cualquiera de los cónyuges hubiera otorgado al otro.",
@@ -602,17 +602,17 @@
         },
         {
             "pregunta": "Martiño está pensando en interponer un proceso monitorio contra Xacobe, ya que este le debe 5.000 €. Para la presentación de la petición inicial del procedimiento monitorio, ¿se requiere Abogado o Procurador?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 3,
             "respuestas": [
                 "Solo será preciso valerse de procurador.",
                 "Solo será preciso valerse de abogado.",
                 "Será preciso valerse de procurador y abogado.",
-                "No será preciso valerse de procurador y abogado. 18"
+                "No será preciso valerse de procurador y abogado."
             ]
         },
         {
             "pregunta": "En el juicio ordinario, Anna, Letrada de la Administración de Justicia, después de examinar la demanda, debe dictar decreto admitiendo la misma y dar traslado de ella al demandado para que la conteste. ¿En qué plazo?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "En el plazo de diez días.",
                 "En el plazo de veinte días.",
@@ -622,7 +622,7 @@
         },
         {
             "pregunta": "En defecto de acuerdo de los cónyuges aprobado por la autoridad judicial, el uso de la vivienda familiar y de los objetos de uso ordinario de ella corresponderá …",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "A los hijos comunes mayores de edad y al cónyuge en cuya compañía queden.",
                 "A los hijos comunes menores de edad y al cónyuge en cuya compañía queden, hasta que todos aquellos alcancen la mayoría de edad.",
@@ -632,7 +632,7 @@
         },
         {
             "pregunta": "Ainhoa es la Abogada de una empresa, y está pensando en solicitar la declaración de concurso de la misma. ¿Qué recurso podría interponer Ainhoa contra el auto que inadmita o desestime la solicitud de declaración del concurso presentada por el deudor solicitante?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "Recurso de reposición.",
                 "Recurso de apelación.",
@@ -642,7 +642,7 @@
         },
         {
             "pregunta": "En el juicio verbal, admitida la demanda, ¿en qué plazo Xoan Xose, Letrado de la Administración de Justicia, dará traslado de la misma al demandado para que la conteste por escrito?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "En el plazo de diez días.",
                 "En el plazo de veinte días.",
@@ -652,17 +652,17 @@
         },
         {
             "pregunta": "Conforme a la normativa reguladora de la Defensa de la Competencia, ¿qué actuación constituye una conducta prohibida como explotación abusiva por una o varias empresas de su posición de dominio en todo o en parte del mercado nacional?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 3,
             "respuestas": [
                 "La negativa injustificada a satisfacer las demandas de compra de productos o de prestación de servicios.",
                 "La subordinación de la celebración de contratos a la aceptación de prestaciones suplementarias que, por su naturaleza o con arreglo a los usos de comercio no guarden relación con el objeto de dichos contratos.",
-                "La imposición, de forma directa o indirecta, de precios u otras condiciones comerciales o de servicios no equitativos. 19",
+                "La imposición, de forma directa o indirecta, de precios u otras condiciones comerciales o de servicios no equitativos.",
                 "Son verdaderas todas las respuestas de esta pregunta."
             ]
         },
         {
             "pregunta": "Amaya está pensando en contraer matrimonio con su pareja Joana, en el Ayuntamiento de su ciudad. ¿Desde cuándo produce efectos civiles el matrimonio?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "Desde su celebración.",
                 "Desde su inscripción en el Registro Civil Central.",
@@ -672,7 +672,7 @@
         },
         {
             "pregunta": "Kepa es un conocido autor y está pensando publicar una obra. Conforme a la normativa actual, ¿cuál es el ámbito de aplicación de los derechos de autor en materia de propiedad intelectual?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "Una obra literaria, artística o científica, por el solo hecho de su creación.",
                 "Una obra política, artística o científica y estructural, por el solo hecho de su creación.",
@@ -682,7 +682,7 @@
         },
         {
             "pregunta": "Pep es Magistrado en un Juzgado de Valencia, y Pere es Letrado de la Administración de Justicia, en ese mismo juzgado. ¿A quién le corresponderá la declaración en rebeldía al demandado que no comparezca en forma en la fecha o en el plazo señalado en la citación o emplazamiento?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "Al Juez o Magistrado.",
                 "Al Letrado de la Administración de Justicia.",
@@ -692,7 +692,7 @@
         },
         {
             "pregunta": "Helena, de catorce años, está pensando en cambiar el orden de sus apellidos, para poner el apellido materno antes que el paterno. ¿Cuándo podrá solicitar que se altere el orden de sus apellidos?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "Al alcanzar los 16 años.",
                 "Al alcanzar la mayor edad.",
@@ -702,17 +702,17 @@
         },
         {
             "pregunta": "Por los concebidos y no nacidos comparecerán …",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "Las personas que tengan atribuido el título de tutor por documento privado.",
                 "Las personas que legítimamente los representarían si ya hubieren nacido.",
                 "Las personas que sean designadas por el Ministerio Fiscal, sin autorización judicial.",
-                "Son falsas todas las respuestas de esta pregunta. 20"
+                "Son falsas todas las respuestas de esta pregunta."
             ]
         },
         {
             "pregunta": "Bikendi y Anuntxi están pensando en pedir una hipoteca para adquirir un piso, pero tienen dudas sobre qué contendrá la inscripción de la hipoteca. En la inscripción del derecho real de hipoteca, conforme a la ley, ¿qué se expresará?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "Únicamente, el importe de tasación efectuado por fedatario público con anterioridad al otorgamiento de la deuda hipotecaria.",
                 "El plazo estimado en que el prestatario deberá reintegrar el importe del crédito, sin perjuicio de su prórroga unilateral por el deudor en documento privado.",
@@ -722,7 +722,7 @@
         },
         {
             "pregunta": "Conforme a la Ley 20\/2011, de 21 de julio, del Registro Civil …",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 3,
             "respuestas": [
                 "El registro individual se abrirá con la inscripción de nacimiento o con el primer asiento que se practique.",
                 "En el registro se inscribirán o anotarán, continuada, sucesiva y cronológicamente, todos los hechos y actos que tengan acceso al Registro Civil.",
@@ -732,7 +732,7 @@
         },
         {
             "pregunta": "¿A qué da derecho por accesión la propiedad de los bienes?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "A todo lo que ellos producen, o se les une o incorpora, solo de forma natural.",
                 "A todo lo que ellos producen, o se les une o incorpora, solo artificialmente.",
@@ -742,7 +742,7 @@
         },
         {
             "pregunta": "Anselm, Magistrado de un Juzgado, tiene que resolver si su juzgado es competente territorialmente para conocer de un proceso civil que se ha presentado. Contra el auto que resuelva sobre la competencia territorial, ¿qué recurso se podrá interponer?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 3,
             "respuestas": [
                 "Recurso de reposición.",
                 "Recurso de apelación.",
@@ -752,17 +752,17 @@
         },
         {
             "pregunta": "Conforme al Código Civil, ¿qué deberá constar en documento público?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 3,
             "respuestas": [
                 "La cesión, repudiación y renuncia de los derechos hereditarios o de los de la sociedad conyugal.",
                 "El poder para contraer matrimonio, el general para pleitos y los especiales que deban presentarse en juicio; el poder para administrar bienes, y de cualquier otro que tenga por objeto un acto redactado o que deba redactarse en escritura pública, o haya de perjudicar a tercero.",
                 "Los arrendamientos de los bienes inmuebles por seis o más años, siempre que deban perjudicar a tercero.",
-                "Son verdaderas todas las respuestas de esta pregunta. 21"
+                "Son verdaderas todas las respuestas de esta pregunta."
             ]
         },
         {
             "pregunta": "Se tendrán por abandonadas las instancias y recursos en toda clase de pleitos si, pese al impulso de oficio de las actuaciones, no se produce actividad procesal alguna …",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "En el plazo de un año, cuando el pleito se hallare en primera instancia; y de dos, si estuviere en segunda instancia o pendiente de recurso extraordinario por infracción procesal o de recurso de casación.",
                 "En el plazo de dos años, cuando el pleito se hallare en primera instancia; y de uno, si estuviere en segunda instancia o pendiente de recurso extraordinario por infracción procesal o de recurso de casación.",
@@ -772,102 +772,17 @@
         },
         {
             "pregunta": "Cuando en una venta, legado, donación u otra disposición en que se haga referencia a cosas muebles o inmuebles se transmita su posesión o propiedad con todo lo que en ellas se halle …",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "Se entenderán comprendidos en la transmisión el metálico, valores, créditos y acciones cuyos documentos se hallen en la cosa transmitida, a no ser que conste claramente la voluntad de extender la transmisión a tales valores y derechos.",
                 "No se entenderán comprendidos en la transmisión el metálico, valores, créditos y acciones cuyos documentos se hallen en la cosa transmitida, a no ser que conste claramente la voluntad de extender la transmisión a tales valores y derechos.",
                 "Se entenderán comprendidos en la transmisión solo los bienes inmuebles cuyos documentos se hallen en la cosa transmitida, siempre que el valor de los mismos excediese de 15.000 €.",
-                "Se entenderán comprendidos en la transmisión solo los bienes muebles cuyos documentos se hallen en la cosa transmitida, siempre que el valor de los mismos excediese de 3.000 €. Preguntas sobre derechos civiles forales"
-            ]
-        },
-        {
-            "pregunta": "En relación al Código Civil, ¿cuál de las siguientes afirmaciones es cierta?",
-            "respuestaCorrecta": "",
-            "respuestas": [
-                "Las disposiciones del título IV del libro I del Código Civil tendrán aplicación general y directa en toda España, con excepción de las normas de este último relativas al régimen económico matrimonial.",
-                "Las disposiciones del Título preliminar del Código Civil tendrán aplicación general y directa en toda España, en cuanto determinan los efectos de las leyes y las reglas generales para su aplicación.",
-                "Con pleno respeto a los derechos especiales o forales de las provincias o territorios en que están vigentes, regirá el Código Civil como derecho supletorio, en defecto del que lo sea en cada una de aquellas según sus normas especiales.",
-                "Son verdaderas todas las respuestas de esta pregunta."
-            ]
-        },
-        {
-            "pregunta": "Escoja la pregunta en función del derecho foral elegido: A - Derecho civil común: 22",
-            "respuestaCorrecta": "",
-            "respuestas": []
-        },
-        {
-            "pregunta": "El régimen económico del matrimonio será …",
-            "respuestaCorrecta": "",
-            "respuestas": [
-                "Solo el de separación de bienes.",
-                "Solo el régimen de gananciales.",
-                "El que los cónyuges estipulen en capitulaciones matrimoniales.",
-                "Solo el régimen de participación. B - Derecho civil Aragón:"
-            ]
-        },
-        {
-            "pregunta": "El régimen económico del matrimonio …",
-            "respuestaCorrecta": "",
-            "respuestas": [
-                "Será solo el de separación de bienes.",
-                "Será solo el régimen de gananciales.",
-                "Se ordenará por las capitulaciones que otorguen los cónyuges.",
-                "Será solo el régimen de participación. C - Derecho civil Baleares:"
-            ]
-        },
-        {
-            "pregunta": "El régimen económico conyugal será …",
-            "respuestaCorrecta": "",
-            "respuestas": [
-                "Solo el de separación de bienes.",
-                "Solo el régimen de gananciales.",
-                "El convenido en capítulos, formalizados en escritura pública, antes o durante el matrimonio y, en defecto de estos, el de separación de bienes.",
-                "Solo el régimen de participación. D - Derecho civil Cataluña:"
-            ]
-        },
-        {
-            "pregunta": "El régimen económico matrimonial es …",
-            "respuestaCorrecta": "",
-            "respuestas": [
-                "Solo el de separación de bienes.",
-                "Solo el régimen de gananciales.",
-                "El convenido en capítulos.",
-                "Solo el régimen de participación. E - Derecho civil Galicia:"
-            ]
-        },
-        {
-            "pregunta": "El régimen económico matrimonial será …",
-            "respuestaCorrecta": "",
-            "respuestas": [
-                "Solo el de separación de bienes.",
-                "Solo el régimen de gananciales.",
-                "El convenido por los cónyuges en capitulaciones matrimoniales. En defecto de convenio o ineficacia del mismo, el régimen será la sociedad de gananciales.",
-                "Solo el régimen de participación. F - Derecho civil País Vasco (Bizkaia):"
-            ]
-        },
-        {
-            "pregunta": "El régimen de bienes en el matrimonio será …",
-            "respuestaCorrecta": "",
-            "respuestas": [
-                "Solo el de separación de bienes.",
-                "Solo el régimen de gananciales. 23",
-                "El que los cónyuges establezcan en capitulaciones matrimoniales, bien estipulando expresamente sus condiciones o bien haciendo referencia a cualquier sistema económico establecido.",
-                "Solo el régimen de participación. G - Derecho civil Navarra:"
-            ]
-        },
-        {
-            "pregunta": "Los cónyuges podrán …",
-            "respuestaCorrecta": "",
-            "respuestas": [
-                "Establecer solo el régimen de separación de bienes.",
-                "Establecer solo el régimen de gananciales.",
-                "Pactar libremente en capitulaciones el régimen económico de su matrimonio sin más limitaciones que las establecidas en la ley.",
-                "Establecer solo el régimen de participación. Preguntas de reserva"
+                "Se entenderán comprendidos en la transmisión solo los bienes muebles cuyos documentos se hallen en la cosa transmitida, siempre que el valor de los mismos excediese de 3.000 €."
             ]
         },
         {
             "pregunta": "Los errores materiales manifiestos y los aritméticos en que incurran las resoluciones de los Tribunales y Letrados y Letradas de la Administración de Justicia, ¿en qué plazo podrán ser rectificados?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 3,
             "respuestas": [
                 "En el plazo máximo de 2 días.",
                 "En el plazo máximo de 3 días.",
@@ -877,7 +792,7 @@
         },
         {
             "pregunta": "Contra el auto que resuelva la oposición a la ejecución, ¿qué recurso se podrá interponer?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "Recurso de reposición.",
                 "Recurso de apelación.",
@@ -889,17 +804,17 @@
     "PENAL": [
         {
             "pregunta": "Rosana ha cometido un homicidio por imprudencia grave utilizando un arma de fuego, delito que de acuerdo al Código Penal será castigado con pena de prisión de uno a cuatro años y con pena de privación del derecho al porte o tenencia de armas por tiempo de uno a seis años. ¿Qué tipo de delito ha cometido Rosana?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "Un delito grave, dado que el Código Penal define como delitos graves aquellos en los que concurra imprudencia grave.",
                 "Un delito menos grave, dado que las penas aparejadas al delito son menos graves.",
-                "Un delito grave, dado que conlleva la imposición de penas graves, al estar castigado con pena de privación del derecho a la tenencia y porte de armas que supera los cinco años. 24",
+                "Un delito grave, dado que conlleva la imposición de penas graves, al estar castigado con pena de privación del derecho a la tenencia y porte de armas que supera los cinco años.",
                 "Un delito grave, dado que conlleva la imposición de penas graves, al estar castigado con pena de prisión superior a tres años."
             ]
         },
         {
             "pregunta": "Un Juez ha considerado probado que Manel es autor de un robo con fuerza en las cosas, delito que el Código Penal castiga con pena de prisión de uno a tres años. El Juez declara que Manel actuó a causa de su grave adicción a las drogas, por lo que aprecia una atenuante, que considera que no es muy cualificada. Por ello el Juez impone en la sentencia una pena de un año y nueve meses de prisión. Manel pregunta a su Abogada si la pena impuesta está dentro de los límites que fija el Código penal para esta situación, dado que concurre una atenuante. Su Abogada ha de contestarle que:",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "Sí está dentro de los límites legales, puesto que el Juez debe aplicar la pena en la mitad inferior de la que fije la ley para el delito.",
                 "No está dentro de los límites legales. El Juez debe aplicar la pena en la mitad inferior de la que fije la ley para el delito, por lo que la pena debería ser de seis meses a un año menos un día de prisión.",
@@ -909,7 +824,7 @@
         },
         {
             "pregunta": "Andrea está cumpliendo una pena de treinta y un días de trabajos en beneficio de la comunidad, y durante la ejecución de la pena, ha faltado tres días del trabajo por causa justificada. ¿Qué consecuencias tendrán dichas faltas en el trabajo?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 3,
             "respuestas": [
                 "Dado que se ha ausentado del trabajo durante más de dos jornadas laborales, la consecuencia será en todo caso que la pena se entienda incumplida, y el Juez de Vigilancia Penitenciaria habrá de acordar deducción de testimonio para proceder contra Andrea por quebrantamiento de condena.",
                 "Las faltas del trabajo por causa justificada no se entenderán como abandono de la actividad. Los días perdidos se tendrán por trabajados, por lo que se computarán a Andrea como efectivamente cumplidos en la liquidación de condena.",
@@ -919,17 +834,17 @@
         },
         {
             "pregunta": "Las personas naturales o jurídicas dedicadas a cualquier género de industria o comercio, ¿cómo responden civilmente por los delitos cometidos por sus empleados o dependientes, representantes o gestores en el desempeño de sus obligaciones o servicios?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "De forma solidaria con los criminalmente responsables de los hechos.",
                 "De forma subsidiaria, en defecto de los que sean criminalmente responsables.",
-                "De forma solidaria con los criminalmente responsables de los hechos, si bien limitadamente hasta la cuantía de su enriquecimiento con los efectos del delito. 25",
+                "De forma solidaria con los criminalmente responsables de los hechos, si bien limitadamente hasta la cuantía de su enriquecimiento con los efectos del delito.",
                 "De forma subsidiaria, si bien solo responderán en caso de que el delito haya sido cometido mediante la utilización de un vehículo susceptible de crear riesgos para terceros."
             ]
         },
         {
             "pregunta": "A José Luis, en aplicación de Ley Orgánica 5\/2000, de 12 de enero, reguladora de la responsabilidad penal de los menores, se le impuso en sentencia una medida de internamiento en régimen cerrado, que comenzó a cumplir durante su minoría de edad en un centro de menores. José Luis alcanza los dieciocho años de edad sin haber finalizado el cumplimiento de la medida. Señale la respuesta correcta en relación a la ejecución de dicha medida.",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "La medida en todo caso habrá de cumplirse en un centro de menores infractores, por haber iniciado allí José Luis el cumplimiento.",
                 "La medida habrá de cumplirse en todo caso en un centro penitenciario conforme al régimen general previsto en la Ley Orgánica General Penitenciaria por haber llegado José Luis a la mayoría de edad.",
@@ -939,7 +854,7 @@
         },
         {
             "pregunta": "La policía judicial acude a la llamada de Xabier, que ha sufrido una agresión en la vía pública por parte de un desconocido que le ha causado la fractura de un brazo. La policía realiza varias diligencias de averiguación de los hechos, pero no consigue identificar al autor en el plazo de setenta y dos horas desde la apertura del atestado. ¿Qué debe hacer la policía judicial con el atestado?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 3,
             "respuestas": [
                 "Debe conservarlo a disposición del Ministerio Fiscal y de la autoridad judicial, sin enviárselo, por no haber autor conocido.",
                 "Debe conservarlo a disposición del Ministerio Fiscal y de la autoridad judicial, sin enviárselo. Solo lo enviará si el Ministerio Fiscal o la autoridad judicial solicitan la remisión.",
@@ -949,7 +864,7 @@
         },
         {
             "pregunta": "Un Juzgado de Instrucción, desarrollando funciones de guardia, ha dictado auto adoptando orden de protección a favor de una víctima de violencia sobre la mujer, al no poder adoptarla el Juzgado de Violencia sobre la Mujer. La defensa del investigado interpone recurso de apelación frente al auto. ¿Qué órgano es el competente para resolver dicho recurso de apelación?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "El Juzgado de lo Penal.",
                 "La Audiencia Provincial.",
@@ -958,8 +873,8 @@
             ]
         },
         {
-            "pregunta": "Mariana, Jueza que ha admitido una querella por un delito de insolvencia punible atribuido a la persona jurídica XXYYZZ SA, entiende que hay que citar a dicha persona jurídica a la 26 comparecencia prevista en el artículo 775 de la Ley de Enjuiciamiento Criminal para informar a la entidad de los hechos que se le imputan. ¿Cómo procede actuar? Señale la respuesta correcta.",
-            "respuestaCorrecta": "",
+            "pregunta": "Mariana, Jueza que ha admitido una querella por un delito de insolvencia punible atribuido a la persona jurídica XXYYZZ SA, entiende que hay que citar a dicha persona jurídica a la comparecencia prevista en el artículo 775 de la Ley de Enjuiciamiento Criminal para informar a la entidad de los hechos que se le imputan. ¿Cómo procede actuar? Señale la respuesta correcta.",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "En la citación se requerirá a la entidad para que proceda a la designación de un representante, así como Abogado y Procurador para ese procedimiento, con la advertencia de que, en caso de no hacerlo, se procederá a la designación de oficio de estos dos últimos.",
                 "En la citación se requerirá a la entidad para que proceda a la designación de un representante, así como Abogado y Procurador, con la advertencia de que, en caso de no hacerlo, se procederá al nombramiento de oficio de una persona del órgano de administración para que represente a la entidad en el procedimiento, y a la designación de oficio de Abogado y Procurador.",
@@ -969,7 +884,7 @@
         },
         {
             "pregunta": "En un sumario, en el que se investiga un delito de tráfico de drogas cometido en el seno de una organización criminal, se ha dictado por la Jueza de instrucción un auto para autorizar la intervención de las comunicaciones telefónicas en las que participe el investigado Alberto a través del terminal del que es titular. ¿Cuál es duración máxima de dicha intervención?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "La duración máxima inicial de la intervención, que se computará desde la fecha de autorización judicial, será de un mes, prorrogable por períodos sucesivos de igual duración hasta el plazo máximo de tres meses.",
                 "La duración máxima inicial de la intervención, que se computará desde la fecha de autorización judicial, será de un mes, prorrogable por períodos sucesivos de igual duración hasta el plazo máximo de doce meses.",
@@ -979,17 +894,17 @@
         },
         {
             "pregunta": "El Juzgado de guardia ha incoado diligencias urgentes por un delito de robo, y se han practicado las diligencias que se han considerado pertinentes. Tras oír a las partes personadas y al Ministerio Fiscal en la comparecencia del artículo 798 de la Ley de Enjuiciamiento Criminal, el Juez de guardia entiende que las diligencias practicadas son suficientes, y que no aparece suficientemente justificada la perpetración del robo. ¿Qué hará el Juez en este caso?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "Dictará un auto acordando el sobreseimiento provisional de las actuaciones.",
                 "Debe ordenar la continuación del procedimiento y la apertura de juicio oral, no pudiendo el Juez de guardia acordar el sobreseimiento provisional salvo en el caso de que el Ministerio Fiscal y el acusador particular, si lo hubiera, soliciten el sobreseimiento.",
                 "Ordenará la continuación del procedimiento como diligencias previas del procedimiento abreviado e inmediatamente dictará auto de sobreseimiento provisional.",
-                "Procederá al enjuiciamiento inmediato del hecho. 27"
+                "Procederá al enjuiciamiento inmediato del hecho."
             ]
         },
         {
             "pregunta": "La causa penal que se instruye por un delito cometido por medio de la imprenta se ha dirigido contra el director de la publicación en la que se ha difundido el escrito que se considera delictivo. Durante el curso de la causa, consigue averiguarse quién ha sido el autor real del escrito y se identifica también al director de la empresa editora. En dicha situación, ¿qué habrá de hacer el Juez de instrucción?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "Habrá de dirigir el procedimiento contra el autor real del escrito y continuarlo también contra el director de la publicación en la que se ha difundido.",
                 "Habrá de dirigir el procedimiento contra el autor real del escrito y deberá sobreseerlo respecto al director de la publicación en que se ha difundido.",
@@ -999,7 +914,7 @@
         },
         {
             "pregunta": "Juan está detenido en la comisaría de policía por un delito contra la seguridad del tráfico y solicita nombramiento de Abogado del turno de oficio para que le asista. El Colegio de la Abogacía ha nombrado al Abogado Pedro para asistir a Juan. Han transcurrido cuatro horas desde que Pedro recibió el encargo, y este no ha comparecido en la comisaría. Indique cuál es la forma correcta de proceder en esta situación.",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 3,
             "respuestas": [
                 "Procede esperar a que acuda el Abogado Pedro, ya que este tiene un plazo máximo de ocho horas desde la recepción del encargo para acudir al centro de detención.",
                 "La policía habrá de requerir a Juan para que nombre Abogado de libre designación, al haber sido infructuoso el nombramiento de Abogado del turno de oficio.",
@@ -1009,17 +924,17 @@
         },
         {
             "pregunta": "En un procedimiento abreviado el Ministerio Fiscal y la acusación particular han presentado sendos escritos de acusación contra Marcela por un delito de apropiación indebida, solicitando penas de un año y de dos años y seis meses de prisión respectivamente. Se acuerda la apertura del juicio oral y Marcela manifiesta a su Abogada que quiere reconocer los hechos y evitar el juicio. Por ello la Abogada de Marcela contacta con las acusaciones para intentar llegar a un acuerdo. ¿Es posible que Marcela y su defensa firmen con las partes acusadoras un nuevo escrito de calificación conjunto para poder prestar conformidad antes de la celebración de las sesiones del juicio oral?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "No, dado que una de las penas solicitadas excede de dos años de prisión.",
                 "No, dado que al estar personada una acusación particular no cabe firmar escrito conjunto de conformidad.",
-                "Sí, dado que la conformidad puede ser prestada con un nuevo escrito de calificación que conjuntamente firmen las partes acusadoras, la acusada Marcela y su Abogada, en cualquier momento anterior al juicio oral. 28",
+                "Sí, dado que la conformidad puede ser prestada con un nuevo escrito de calificación que conjuntamente firmen las partes acusadoras, la acusada Marcela y su Abogada, en cualquier momento anterior al juicio oral.",
                 "No, dado que en atención al estado de la tramitación del procedimiento solo podrá conformarse con los escritos de acusación ya presentados si quiere hacerlo antes de comenzar las sesiones del juicio oral."
             ]
         },
         {
             "pregunta": "Joaquín está siendo investigado por un delito de estafa del artículo 250 del Código Penal, y la Jueza Mireia acuerda la prisión provisional del mismo, motivando que el fin que persigue dicha medida es evitar la ocultación, alteración o destrucción de las fuentes de prueba relevantes para el enjuiciamiento. El delito por el que se investiga a Joaquín está castigado con las penas de prisión de uno a seis años y multa de seis a doce meses. ¿Cuál es el plazo máximo de la prisión provisional así acordada?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 3,
             "respuestas": [
                 "La duración de la prisión provisional no podrá exceder de un año, si bien cabe una prórroga por seis meses.",
                 "La duración de la prisión provisional no podrá exceder de dos años, si bien cabe una prórroga por seis meses.",
@@ -1029,7 +944,7 @@
         },
         {
             "pregunta": "Días antes del juicio, Xulio, acusado en un procedimiento abreviado, le dice a su Abogado que existe un testigo, Jaime, que puede acreditar hechos que le favorecen. El Abogado de Xulio ya presentó en el plazo oportuno el escrito de defensa, por lo que esta testifical no fue propuesta en el escrito. En el turno de intervenciones al comienzo del juicio, el Abogado de Xulio propone la declaración testifical de Jaime, indicando que dicho testigo ha comparecido en el juzgado para declarar, por lo que la prueba podría practicarse en el acto. Ante dicha proposición, el Juez…",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "No podrá admitir la declaración testifical de Jaime porque solo podrán practicarse las pruebas que las partes hubieran propuesto en sus respectivos escritos de acusación y defensa.",
                 "No podrá admitir la declaración testifical de Jaime porque las partes en el turno de intervenciones al comienzo del juicio únicamente podrán proponer y aportar nueva prueba si es de carácter documental.",
@@ -1039,17 +954,17 @@
         },
         {
             "pregunta": "En la fase instructora de un procedimiento abreviado por un delito menos grave de lesiones sufrido por Vicente, la autoridad judicial acuerda que ha de intervenir como testigo el menor Pedro, que tiene trece años de edad. De acuerdo con lo previsto en la Ley de Enjuiciamiento Criminal, en esta situación, ¿cómo habrá de acordar la autoridad judicial que se practique la audiencia de dicho menor?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "La autoridad judicial habrá de acordar en todo caso practicar la audiencia del menor como prueba preconstituida, en atención a la edad del testigo y al tipo de delito cometido.",
                 "La autoridad judicial no podrá acordar en este caso que la audiencia del menor se practique como prueba preconstituida dado que ello solo está previsto para los menores de doce años.",
-                "La autoridad judicial podrá acordar que la audiencia del menor se practique como prueba preconstituida, pero solo si entiende que una posterior declaración en juicio va a perjudicar 29 seriamente al menor.",
+                "La autoridad judicial podrá acordar que la audiencia del menor se practique como prueba preconstituida, pero solo si entiende que una posterior declaración en juicio va a perjudicar seriamente al menor.",
                 "La autoridad judicial no podrá acordar que la audiencia del menor se practique como prueba preconstituida, en tanto que el delito menos grave de lesiones no es de aquellos para los cuales está prevista dicha posibilidad."
             ]
         },
         {
             "pregunta": "La Audiencia Provincial de Teruel dictó en primera instancia una sentencia condenatoria por un delito de lesiones. Dicha sentencia fue recurrida en apelación, y la Sala de lo Civil y Penal del Tribunal Superior de Justicia de Aragón ha dictado sentencia que se limita a declarar la nulidad de la sentencia recaída en primera instancia. ¿Procede recurso de casación contra la sentencia que ha dictado la Sala de lo Civil y Penal del Tribunal Superior de Justicia de Aragón?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "Sí cabe recurso, únicamente por infracción de ley.",
                 "No cabe recurso de casación contra dicha sentencia.",
@@ -1059,7 +974,7 @@
         },
         {
             "pregunta": "Jon fue condenado a una pena de un año de prisión y a pagar una responsabilidad civil de 10.000 €. Jon se comprometió a satisfacer dicha responsabilidad civil de acuerdo a su capacidad económica y la Jueza de lo Penal acordó dejar en suspenso la ejecución de la pena privativa de libertad impuesta a Jon, determinando un plazo prudencial para el pago de la responsabilidad civil y condicionando la suspensión al cumplimiento de la prohibición de acudir al lugar donde cometió el delito. ¿En cuál de los siguientes casos deberá la Jueza revocar la suspensión y ordenar la ejecución de la pena?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "En caso de que Jon incumpla de forma grave o reiterada la prohibición de acudir al lugar donde cometió el delito.",
                 "En caso de que Jon sea condenado por un delito cometido durante el período de suspensión, siendo imperativa la revocación de la suspensión en caso de cometer cualquier delito.",
@@ -1069,17 +984,17 @@
         },
         {
             "pregunta": "Miguel ha sido condenado a diez penas de tres años de prisión por diez delitos de robo con violencia, por lo que se establece que el máximo de cumplimiento efectivo de la condena es de nueve años. En este caso, señale qué dispone el Código Penal respecto al cómputo de tiempo para la libertad condicional.",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "El Juez de Vigilancia Penitenciaria necesariamente habrá de acordar que el cómputo de tiempo para la libertad condicional se refiera a la totalidad de las penas impuestas en las sentencias.",
                 "El Juez o Tribunal sentenciador podrá acordar que el cómputo de tiempo para la libertad condicional se refiera a la totalidad de las penas impuestas en las sentencias.",
                 "No podrá acordarse que el cómputo de tiempo para la libertad condicional se refiera a la totalidad de las penas impuestas en las sentencias.",
-                "El Juez o Tribunal sentenciador necesariamente habrá de acordar que el cómputo de tiempo para la libertad condicional se refiera a la totalidad de las penas impuestas en las sentencias. 30"
+                "El Juez o Tribunal sentenciador necesariamente habrá de acordar que el cómputo de tiempo para la libertad condicional se refiera a la totalidad de las penas impuestas en las sentencias."
             ]
         },
         {
             "pregunta": "¿Cuál de las siguientes penas, que son aplicables a las personas jurídicas, puede ser impuesta en la sentencia bien con carácter temporal o bien con carácter permanente?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "Prohibición de realizar en el futuro las actividades en cuyo ejercicio se haya cometido, favorecido o encubierto el delito.",
                 "Disolución de la persona jurídica.",
@@ -1089,7 +1004,7 @@
         },
         {
             "pregunta": "Se ha entregado el escrito con el objeto del veredicto a los Jurados, que se retiran a la sala destinada para su deliberación. Ernest, uno de los Jurados, tiene dudas sobre determinados aspectos del objeto del veredicto, por lo que pide la presencia del Magistrado-Presidente para que amplíe las instrucciones. Señale cómo ha de procederse en esta situación.",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "No podrá darse trámite a la petición de Ernest dado que no se permite que los Jurados soliciten la presencia del Magistrado-Presidente bajo ningún concepto, ya que han de permanecer incomunicados.",
                 "A la vista de la petición de Ernest, se convocará a los Jurados a una comparecencia en audiencia pública con el Magistrado- Presidente asistido del Letrado de la Administración de Justicia, en presencia del Ministerio Fiscal y las demás partes.",
@@ -1099,7 +1014,7 @@
         },
         {
             "pregunta": "Antonio, que fue declarado exento de responsabilidad criminal por causa de su trastorno psíquico, está cumpliendo una medida de seguridad de internamiento en centro psiquiátrico. Durante la ejecución de dicha medida…",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "El Juez de Vigilancia Penitenciaria estará obligado a elevar, al menos anualmente, una propuesta de mantenimiento, cese, sustitución o suspensión de la medida de seguridad, correspondiendo al Juez o Tribunal sentenciador adoptar la decisión que proceda sobre el mantenimiento, cese, sustitución o suspensión de la medida.",
                 "Los facultativos y profesionales que asistan a Antonio estarán obligados a elevar, al menos cada seis meses, una propuesta de mantenimiento, cese, sustitución o suspensión de la medida de seguridad, correspondiendo al Juez de Vigilancia Penitenciaria acordar el mantenimiento, cese, sustitución o suspensión de la medida.",
@@ -1108,8 +1023,8 @@
             ]
         },
         {
-            "pregunta": "Wilfredo, en su domicilio de Madrid y sin intervención de ninguna otra persona en los hechos, ha estado fabricando moneda falsa. Dicho delito está castigado con pena de prisión de 31 ocho a doce años y multa del tanto al décuplo del valor aparente de la moneda. Señale qué órgano es competente para el enjuiciamiento del delito cometido por Wilfredo.",
-            "respuestaCorrecta": "",
+            "pregunta": "Wilfredo, en su domicilio de Madrid y sin intervención de ninguna otra persona en los hechos, ha estado fabricando moneda falsa. Dicho delito está castigado con pena de prisión de ocho a doce años y multa del tanto al décuplo del valor aparente de la moneda. Señale qué órgano es competente para el enjuiciamiento del delito cometido por Wilfredo.",
+            "respuestaCorrecta": 3,
             "respuestas": [
                 "Los Juzgados de lo Penal de Madrid.",
                 "Los Juzgados Centrales de lo Penal.",
@@ -1119,7 +1034,7 @@
         },
         {
             "pregunta": "Antonio es el padre de Carlos. Carlos es el padre de Mario. Mario tiene quince años de edad y su padre Carlos tiene atribuida la representación legal de dicho menor. Un Juzgado ha iniciado una investigación al haberse recibido una denuncia por un delito de malos tratos que habría sufrido Mario, y el investigado por tales hechos es su abuelo Antonio. El Juez de instrucción acuerda la declaración testifical de Carlos. ¿Está Carlos dispensado de la obligación de declarar como testigo?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "Sí, dado que es pariente del investigado en línea directa, por lo que en todo caso queda dispensado de la obligación de declarar.",
                 "Sí, dado que es pariente del investigado en línea directa, y el delito que se investiga no es un delito grave.",
@@ -1129,17 +1044,17 @@
         },
         {
             "pregunta": "José ha sido condenado a una pena de dos años y seis meses de prisión, habiendo cometido los hechos a causa de su dependencia a las drogas. Su Abogado aporta informe de centro público que certifica que José está en tratamiento de deshabituación en el momento presente, y solicita la suspensión de la ejecución de la pena de prisión, acordándola el Tribunal. ¿Qué reglas ha de observar el Tribunal al acordar la suspensión? Señale la respuesta correcta.",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "Deberá condicionar la suspensión de la ejecución de la pena a que no abandone el tratamiento hasta su finalización, deberá imponer a José el cumplimiento de una pena de multa o de trabajos en beneficio de la comunidad, y deberá fijar un plazo de suspensión de tres a cinco años.",
                 "Deberá condicionar la suspensión de la ejecución de la pena a que no abandone el tratamiento hasta su finalización y deberá fijar un plazo de suspensión de tres a cinco años.",
                 "Deberá condicionar la suspensión de la ejecución de la pena a que no abandone el tratamiento hasta su finalización, y deberá fijar un plazo de suspensión de dos a cinco años.",
-                "Deberá condicionar la suspensión de la ejecución de la pena a la deshabituación efectiva del sujeto y deberá fijar un plazo de suspensión de dos a cinco años. Preguntas de reserva"
+                "Deberá condicionar la suspensión de la ejecución de la pena a la deshabituación efectiva del sujeto y deberá fijar un plazo de suspensión de dos a cinco años."
             ]
         },
         {
-            "pregunta": "Tras la vista del juicio por un delito de lesiones cometidas por imprudencia, el Juez Fernando está redactando la sentencia, en la que declara a Miguel autor de los hechos. Fernando considera que Miguel, quien ya había sido condenado previamente por un delito doloso de lesiones, confesó la infracción a las autoridades antes de conocer que el procedimiento se dirigía contra él 32 y que asimismo reparó el daño ocasionado a la víctima antes del juicio oral. En este caso, en la sentencia:",
-            "respuestaCorrecta": "",
+            "pregunta": "Tras la vista del juicio por un delito de lesiones cometidas por imprudencia, el Juez Fernando está redactando la sentencia, en la que declara a Miguel autor de los hechos. Fernando considera que Miguel, quien ya había sido condenado previamente por un delito doloso de lesiones, confesó la infracción a las autoridades antes de conocer que el procedimiento se dirigía contra él y que asimismo reparó el daño ocasionado a la víctima antes del juicio oral. En este caso, en la sentencia:",
+            "respuestaCorrecta": 3,
             "respuestas": [
                 "Fernando deberá necesariamente imponer la pena en la mitad inferior de la que fije la ley para el delito.",
                 "Fernando deberá necesariamente imponer la pena inferior en uno o dos grados a la establecida por la ley para el delito.",
@@ -1149,7 +1064,7 @@
         },
         {
             "pregunta": "Contra las diligencias de ordenación del Letrado de la Administración de Justicia dictadas en el procedimiento penal y que no se refieran ni a la ejecución de pronunciamientos civiles de la sentencia ni a la realización de la medida cautelar de embargo, ¿qué recurso establece la Ley de Enjuiciamiento Criminal? Señale la respuesta correcta.",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "Recurso de reforma, que será resuelto por el propio Letrado de la Administración de Justicia.",
                 "Recurso de revisión, que será resuelto por el propio Letrado de la Administración de Justicia.",
@@ -1161,7 +1076,7 @@
     "ADMINISTRATIVO Y CONTENCIOSOADMINISTRATIVO": [
         {
             "pregunta": "Durante la tramitación de un procedimiento administrativo iniciado de oficio han surgido diversas cuestiones incidentales. Indique las consecuencias que podrán tener sobre la posible suspensión del procedimiento.",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "Ninguna. Cualquiera que sea la cuestión incidental que se plantee, no se suspenderá la tramitación del procedimiento.",
                 "Las cuestiones incidentales que se susciten en el procedimiento no suspenderán el mismo, salvo la recusación.",
@@ -1171,17 +1086,17 @@
         },
         {
             "pregunta": "Indique el valor probatorio que en el procedimiento administrativo tendrán los documentos formalizados por funcionarios a los que se reconoce la condición de autoridad y en los que, observándose los requisitos legales correspondientes, se recojan los hechos constatados por aquellos.",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "Harán prueba plena de los hechos a que se refieran, no admitiendo prueba en contrario.",
                 "Harán prueba de los hechos a que se refieran, salvo que se acredite lo contrario.",
-                "Para que tengan valor probatorio, será precisa su ratificación por la autoridad o funcionario autorizante y se valorarán junto al resto de medios probatorios, rigiendo el principio de libre 33 valoración de la prueba.",
+                "Para que tengan valor probatorio, será precisa su ratificación por la autoridad o funcionario autorizante y se valorarán junto al resto de medios probatorios, rigiendo el principio de libre valoración de la prueba.",
                 "Harán prueba plena de los hechos a que se refieran, salvo impugnación expresa de la parte que niegue su autenticidad, en cuyo caso serán excluidos y el hecho a que se refieran deberá acreditarse por otros medios probatorios."
             ]
         },
         {
             "pregunta": "Entre las circunstancias tasadas en las que puede fundarse un recurso extraordinario de revisión frente a un acto firme en vía administrativa, se encuentra:",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "Que en la resolución administrativa se haya prescindido total y absolutamente de las normas que contienen las reglas esenciales para la formación de la voluntad de los órganos colegiados.",
                 "Que en la resolución administrativa hayan influido esencialmente documentos declarados falsos por sentencia judicial firme, pero solo si la sentencia fue dictada con anterioridad a la resolución.",
@@ -1191,7 +1106,7 @@
         },
         {
             "pregunta": "En los procedimientos sobre responsabilidad patrimonial de las Administraciones Públicas, ¿qué efectos tendrá el silencio administrativo?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "Efecto estimatorio si el procedimiento se inició a solicitud del interesado y desestimatorio si se inició de oficio.",
                 "Efecto estimatorio cuando se produzca respecto de la resolución del recurso de alzada que se haya interpuesto contra la desestimación inicial por silencio administrativo y desestimatorio en el resto de supuestos.",
@@ -1201,7 +1116,7 @@
         },
         {
             "pregunta": "¿En qué casoslas reclamaciones en materia de responsabilidad patrimonial podrán ser objeto de tramitación simplificada?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "Cuando, una vez iniciado el procedimiento administrativo, el órgano competente para su tramitación considere inequívoca la relación de causalidad entre el funcionamiento del servicio público y la lesión, así como la valoración del daño y el cálculo de la cuantía de la indemnización.",
                 "Cuando las indemnizaciones reclamadas sean de cuantía igual o inferior a 50.000 €.",
@@ -1211,17 +1126,17 @@
         },
         {
             "pregunta": "En el procedimiento administrativo sancionador previsto en Ley 39\/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, la calificación inicial de los hechos que motivan la incoación del procedimiento debe hacerse constar:",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "Indistintamente, a criterio del órgano instructor, en el acuerdo de iniciación del procedimiento o en la propuesta de resolución, pero siempre, en todo caso antes de la resolución del procedimiento.",
                 "En todo caso, en el acuerdo de iniciación, al ser la calificación de los hechos una de las menciones indispensables de este acuerdo.",
-                "Con carácter general, en el acuerdo de incoación, si bien excepcionalmente cuando en ese momento no existan elementos suficientes para la calificación inicial, la calificación de los hechos podrá realizarse en un momento posterior, mediante un pliego de cargos. 34",
+                "Con carácter general, en el acuerdo de incoación, si bien excepcionalmente cuando en ese momento no existan elementos suficientes para la calificación inicial, la calificación de los hechos podrá realizarse en un momento posterior, mediante un pliego de cargos.",
                 "En la propuesta de resolución, en la que se fijará la calificación inicial de los hechos, su calificación jurídica, la infracción que esos hechos constituyan, la persona responsable y la sanción que se proponga."
             ]
         },
         {
             "pregunta": "Corresponde al orden jurisdiccional contencioso-administrativo el conocimiento de:",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 3,
             "respuestas": [
                 "Los recursos contencioso-disciplinarios militares.",
                 "Los recursos directos que se interpongan contra las Normas Forales fiscales de las Juntas Generales de los Territorios Históricos de Álava, Guipúzcoa y Vizcaya.",
@@ -1231,7 +1146,7 @@
         },
         {
             "pregunta": "¿A qué órgano jurisdiccional corresponde la declaración judicial de extinción de un partido político por no haber presentado sus cuentas anuales durante tres ejercicios consecutivos a que se refiere el artículo 12 bis de la Ley Orgánica 6\/2002, de 27 de junio, de Partidos Políticos?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "A la Sala de lo Contencioso-administrativo del Tribunal Supremo.",
                 "A la Sala de lo Contencioso-administrativo de la Audiencia Nacional.",
@@ -1241,7 +1156,7 @@
         },
         {
             "pregunta": "La interposición de un recurso contencioso-administrativo frente a una actuación material de la Administración que constituya vía de hecho, ¿precisa necesariamente de un previo requerimiento a la Administración?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "Sí. En todo caso ha de mediar previo requerimiento a la Administración para que esta pueda cesar en su comportamiento, sin necesidad de acudir a los Tribunales.",
                 "No. La Ley prevé en estos casos que el interesado ha de interponer directamente recurso contencioso-administrativo, sin requerimiento previo alguno.",
@@ -1251,7 +1166,7 @@
         },
         {
             "pregunta": "En relación con el procedimiento especial para la garantía de la unidad de mercado, ¿quién tiene legitimación para interponerlo?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "Exclusivamente la Comisión Nacional de los Mercados y la Competencia.",
                 "Indistintamente la Comisión Nacional de los Mercados y la Competencia o un operador económico que tenga interés directo en la anulación del acto, actuación o disposición cuestionada.",
@@ -1260,8 +1175,8 @@
             ]
         },
         {
-            "pregunta": "¿A quién corresponde la legitimación activa para interponer un recurso contenciosoadministrativo sobre acoso sexual y acoso por razón de sexo? 35",
-            "respuestaCorrecta": "",
+            "pregunta": "¿A quién corresponde la legitimación activa para interponer un recurso contenciosoadministrativo sobre acoso sexual y acoso por razón de sexo?",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "En todo caso, a las asociaciones legalmente constituidas cuyo fin primordial sea la defensa de la igualdad de trato entre mujeres y hombres, además de a la propia persona acosada.",
                 "Solamente a la persona acosada.",
@@ -1271,7 +1186,7 @@
         },
         {
             "pregunta": "¿Puede un funcionario público comparecer por sí mismo en un proceso contenciosoadministrativo?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "Sí, siempre que se trate de actuaciones ante un órgano unipersonal, cualquiera que sea la materia, precisando de la asistencia de Abogado o Abogada si las actuaciones son ante un órgano colegiado.",
                 "Sí, en defensa de sus derechos estatutarios, cuando se refiera a cuestiones de personal que no impliquen separación de empleos públicos inamovibles, exclusivamente.",
@@ -1281,7 +1196,7 @@
         },
         {
             "pregunta": "En los supuestos en los que el Juez o Tribunal disponga de oficio la práctica de una determinada prueba que estime necesaria y las partes no hubieran tenido oportunidad de alegar sobre su resultado, en la vista o en el escrito de conclusiones, ¿cómo actuará el órgano judicial?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "Previa audiencia de las partes, declarará la nulidad del trámite de vista o de conclusiones, retrotrayendo las actuaciones a un momento anterior, para que las partes puedan nuevamente solicitar vista o conclusiones y así alegar sobre la nueva prueba practicada de oficio.",
                 "El Letrado o Letrada de la Administración de Justicia pondrá de manifiesto el resultado de la prueba a las partes, las cuales podrán, en los cinco días siguientes, alegar lo que estimen conveniente acerca de su alcance e importancia.",
@@ -1291,7 +1206,7 @@
         },
         {
             "pregunta": "Durante la tramitación de un recurso de apelación frente a una sentencia, ¿es posible adoptar nuevas medidas cautelares que no hubiesen sido adoptadas en primera instancia?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "No. Las medidas cautelares pueden solicitarse y adoptarse, en cualquier estado del proceso, durante la primera instancia exclusivamente.",
                 "Sí. El Juez, a instancia de parte interesada, podrá adoptar las medidas cautelares que sean pertinentes para asegurar la ejecución de la sentencia.",
@@ -1300,8 +1215,8 @@
             ]
         },
         {
-            "pregunta": "¿Qué tipo de resolución declarará terminado el procedimiento por el allanamiento de la parte demandada, cuando no suponga infracción manifiesta del ordenamiento jurídico? 36",
-            "respuestaCorrecta": "",
+            "pregunta": "¿Qué tipo de resolución declarará terminado el procedimiento por el allanamiento de la parte demandada, cuando no suponga infracción manifiesta del ordenamiento jurídico?",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "Decreto.",
                 "Auto.",
@@ -1311,7 +1226,7 @@
         },
         {
             "pregunta": "¿Qué recurso cabe contra la resolución del Letrado o Letrada de la Administración de Justicia admitiendo a trámite el recurso de apelación frente a una sentencia?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "No cabe recurso alguno.",
                 "Recurso de reposición.",
@@ -1321,7 +1236,7 @@
         },
         {
             "pregunta": "¿A quién tiene que dirigirse la solicitud de extensión de efectos de una sentencia contencioso-administrativa?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "Al órgano jurisdiccional competente que hubiera dictado la sentencia cuya extensión de efectos se pretende.",
                 "A la Administración demandada, autora del acto o disposición objeto del recurso contenciosoadministrativo.",
@@ -1331,7 +1246,7 @@
         },
         {
             "pregunta": "¿A quién corresponde apreciar la concurrencia de una causa que haga imposible, legal o materialmente, ejecutar una sentencia?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "Al órgano administrativo encargado de su cumplimiento.",
                 "Al Juez o Tribunal que hubiese dictado la sentencia.",
@@ -1341,7 +1256,7 @@
         },
         {
             "pregunta": "Las causas de utilidad pública o de interés social que permiten expropiar los derechos reconocidos por una sentencia frente a la Administración son, exclusivamente:",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "El peligro cierto de alteración grave del libre ejercicio de los derechos y libertades de los ciudadanos y el temor fundado de guerra.",
                 "El peligro cierto de alteración grave del libre ejercicio de los derechos y libertades de los ciudadanos, el temor fundado de guerra y el quebranto de la integridad del territorio nacional.",
@@ -1350,8 +1265,8 @@
             ]
         },
         {
-            "pregunta": "En relación con la declaración responsable y la comunicación, ¿en qué casos pueden exigirse ambas acumulativamente? 37",
-            "respuestaCorrecta": "",
+            "pregunta": "En relación con la declaración responsable y la comunicación, ¿en qué casos pueden exigirse ambas acumulativamente?",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "En ningún caso.",
                 "Cuando se trate de la realización de actividades que afecten a la defensa nacional.",
@@ -1361,7 +1276,7 @@
         },
         {
             "pregunta": "Conforme a la Ley de Expropiación Forzosa, en el procedimiento general u ordinario de expropiación, ¿cuándo podrá llevarse a cabo la ocupación de la finca expropiada o el ejercicio del derecho expropiado?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "Una vez que haya quedado determinado el justiprecio.",
                 "Una vez que se haya hecho efectivo el justiprecio o, en su caso, haya sido consignado en legal forma.",
@@ -1371,7 +1286,7 @@
         },
         {
             "pregunta": "En materia de contratos del sector público, ¿quiénes son competentes para solventar las controversias que se susciten sobre la preparación y adjudicación de los mismos?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "Los órganos del orden jurisdiccional contencioso-administrativo para todo lo relativo a la preparación y adjudicación, tanto si son contratos administrativos como contratos privados.",
                 "Los órganos del orden jurisdiccional contencioso-administrativo para todo lo relativo a la preparación y adjudicación para los contratos administrativos y los del orden civil para la preparación y adjudicación de los contratos privados.",
@@ -1381,7 +1296,7 @@
         },
         {
             "pregunta": "En un procedimiento administrativo en materia de extranjería, ¿podrá intervenir como interesada una organización legalmente constituida en España para la defensa de los inmigrantes?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "Sí, pero solo si la organización ha sido expresamente designada por la persona extranjera interesada en el procedimiento.",
                 "Sí, en todo caso.",
@@ -1391,27 +1306,27 @@
         },
         {
             "pregunta": "¿Cuál es la duración máxima que puede tener el ingreso de una persona extranjera en un centro de internamiento, durante la tramitación de un procedimiento en materia de extranjería en el que pueda acordarse su expulsión del territorio nacional?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "60 días prorrogables por una sola vez por otros 30 días.",
                 "60 días improrrogables.",
                 "30 días prorrogables por una sola vez por 15 días.",
-                "45 días improrrogables. 38"
+                "45 días improrrogables."
             ]
         },
         {
             "pregunta": "¿Cuál es el procedimiento tributario que tiene por objeto la comprobación e investigación del adecuado cumplimiento de las obligaciones tributarias y, en su caso, la regulación del obligado tributario mediante la práctica de una o varias liquidaciones?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 3,
             "respuestas": [
                 "El procedimiento de apremio.",
                 "El procedimiento de verificación de datos.",
                 "El procedimiento de recaudación.",
-                "El procedimiento de inspección. Preguntas de reserva"
+                "El procedimiento de inspección."
             ]
         },
         {
             "pregunta": "Las actuaciones previas que pueden llevarse a cabo con anterioridad al inicio de un procedimiento sancionador previsto en Ley 39\/2015, de 1 de octubre, del Procedimiento Administrativo Común de las Administraciones Públicas, se orientarán a determinar con la mayor precisión posible:",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "Los hechos susceptibles de motivar la incoación del procedimiento, la identificación de la persona o personas que pudieran resultar responsables y las circunstancias relevantes que concurran en unos y otros.",
                 "La persona o personas presuntamente responsables, las conductas o hechos que pudieran constituir infracción administrativa y su tipificación; así como el lugar y la fecha en que ocurrieron los hechos.",
@@ -1421,7 +1336,7 @@
         },
         {
             "pregunta": "¿Quiénes están legitimados para instar la ejecución forzosa de una sentencia firme, una vez transcurrido el plazo para su cumplimiento voluntario?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 3,
             "respuestas": [
                 "Solo la parte demandante, sea un particular o una Administración pública.",
                 "Solo la Administración demandada.",
@@ -1433,17 +1348,17 @@
     "LABORAL": [
         {
             "pregunta": "Lucía tiene catorce años y vive con sus padres en el domicilio familiar. La dueña de una cafetería cercana a su casa le ofrece trabajar sirviendo mesas a la hora de la comida con un contrato de 20 horas semanales. ¿Puede Lucía suscribir contrato de trabajo?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "Lucía puede firmar el contrato de trabajo por sí misma.",
                 "Lucía puede firmar el contrato de trabajo con el consentimiento de sus padres.",
-                "Lucía no puede firmar el contrato de trabajo al ser menor de dieciséis años. 39",
+                "Lucía no puede firmar el contrato de trabajo al ser menor de dieciséis años.",
                 "No hay problema en que Lucía contrate la prestación de sus servicios al ser un contrato a tiempo parcial."
             ]
         },
         {
             "pregunta": "La celebración de un contrato de trabajo para la realización de una obra o servicio, ¿exige algún requisito de forma?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "No. Se podrá celebrar por escrito o de palabra.",
                 "Sí. Los contratos de trabajo para obra o servicio determinado deben constar por escrito, en todo caso.",
@@ -1453,7 +1368,7 @@
         },
         {
             "pregunta": "Andrés presta servicios por cuenta ajena en virtud de contrato de formación en alternancia en una fábrica de montaje de piezas de automóvil. Si las necesidades de la empresa lo justifican, ¿puede esta imponer a Andrés trabajos nocturnos o trabajo a turnos?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "Los contratados en virtud de contrato de formación en alternancia se someten en esta cuestión al mismo régimen que el resto de los trabajadores de la plantilla, sea cual sea la naturaleza de su contrato.",
                 "Las personas contratadas con contrato de formación en alternancia no podrán realizar trabajos nocturnos ni trabajo a turnos salvo que por la naturaleza de la actividad el plan formativo no pueda desarrollarse en otros periodos.",
@@ -1463,7 +1378,7 @@
         },
         {
             "pregunta": "Empresa y trabajador deciden que una parte del salario mensual se abonará en especie. ¿Cuál es el máximo que se puede percibir como salario en especie?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 3,
             "respuestas": [
                 "No existe un máximo fijado en la legislación laboral.",
                 "El salario en especie podrá ser como máximo el que en cada caso fije el convenio colectivo del sector.",
@@ -1473,7 +1388,7 @@
         },
         {
             "pregunta": "¿Cuál es la duración del descanso mínimo entre jornadas? Marque la respuesta correcta.",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "Entre el final de una jornada y el comienzo de la siguiente deben mediar, como mínimo, doce horas.",
                 "Entre el final de una jornada y el comienzo de la siguiente deben mediar, como mínimo, nueve horas.",
@@ -1482,8 +1397,8 @@
             ]
         },
         {
-            "pregunta": "Jaume trabaja como conserje para el Ayuntamiento de Salt en virtud de contrato de trabajo indefinido y a jornada completa. Tras disfrutar de permiso por nacimiento de su primer hijo decide pedir una reducción de jornada de un veinte por ciento, que le es denegada. ¿Cuál sería el orden jurisdiccional competente para conocer de su demanda? 40",
-            "respuestaCorrecta": "",
+            "pregunta": "Jaume trabaja como conserje para el Ayuntamiento de Salt en virtud de contrato de trabajo indefinido y a jornada completa. Tras disfrutar de permiso por nacimiento de su primer hijo decide pedir una reducción de jornada de un veinte por ciento, que le es denegada. ¿Cuál sería el orden jurisdiccional competente para conocer de su demanda?",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "La competencia para conocer de esta demanda corresponderá al orden jurisdiccional social al tratarse de personal laboral al servicio de una Administración pública.",
                 "La competencia para conocer de esta demanda corresponderá al orden jurisdiccional contencioso-administrativo ya que el empleador es una Administración pública.",
@@ -1493,7 +1408,7 @@
         },
         {
             "pregunta": "¿En cuál de los siguientes supuestos la legislación laboral admite la suspensión del contrato de trabajo con recíproca exoneración de las obligaciones de trabajar y remunerar?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "Durante las vacaciones.",
                 "Durante la incapacidad temporal del trabajador.",
@@ -1503,7 +1418,7 @@
         },
         {
             "pregunta": "La empresa XXX decide sancionar a un empleado por la comisión de una falta de desobediencia tipificada como falta grave. ¿Cuándo prescribe esta falta?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "A los veinte días a partir de la fecha de la comunicación escrita al trabajador y, en todo caso, a los seis meses de haberse cometido.",
                 "A los sesenta días a partir de la fecha de la comunicación escrita al trabajador y, en todo caso, a los seis meses de haberse cometido.",
@@ -1513,7 +1428,7 @@
         },
         {
             "pregunta": "Si una empresa cuenta con setenta y dos empleados, ¿a quién corresponde la representación de estos para la defensa de sus intereses?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "A los delegados de personal en número de tres.",
                 "A un solo delegado de personal.",
@@ -1523,7 +1438,7 @@
         },
         {
             "pregunta": "El comité de empresa tiene derecho a recibir la copia básica de los contratos así como la notificación de las prórrogas y de las denuncias correspondientes a los mismos. ¿Con que frecuencia?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 3,
             "respuestas": [
                 "con una periodicidad mensual.",
                 "con una periodicidad trimestral.",
@@ -1533,17 +1448,17 @@
         },
         {
             "pregunta": "Sin perjuicio de la libertad de las partes para determinar el contenido de los convenios colectivos, en la negociación de los mismos, ¿existirá el deber de negociar medidas dirigidas a promover la igualdad de trato y de oportunidades entre mujeres y hombres en el ámbito laboral o, en su caso, planes de igualdad con el alcance y contenido previsto en el capítulo III del título IV de la Ley Orgánica 3\/2007, de 22 de marzo, para la igualdad efectiva de mujeres y hombres?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "En todo caso.",
                 "Solo en las empresas que cuenten con más de doscientos cincuenta trabajadores.",
-                "Solo si las partes negociadoras así lo deciden. 41",
+                "Solo si las partes negociadoras así lo deciden.",
                 "Solo en las empresas que cuenten con más de cincuenta trabajadores."
             ]
         },
         {
             "pregunta": "¿Cuál es la duración de los convenios colectivos?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 3,
             "respuestas": [
                 "Los convenios colectivos tendrán una duración máxima de un año.",
                 "Los convenios colectivos tendrán una duración máxima de cinco años.",
@@ -1553,7 +1468,7 @@
         },
         {
             "pregunta": "Gema ha prestado servicios por cuenta de una empresa con domicilio en Barcelona en las provincias de Huelva y Málaga. Tras ser despedida, decide presentar demanda. ¿Qué Juzgado o Tribunal es competente territorialmente para conocer de la demanda?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "La demanda tiene que presentarse necesariamente ante el Juzgado de lo Social donde la empresa demandada tiene su domicilio.",
                 "La demanda podrá presentarse ante el Juzgado de lo Social de alguna de las distintas circunscripciones territoriales en las que presta sus servicios, pudiendo elegir entre aquel en el que tenga su domicilio, el del contrato, si hallándose en él el demandado pudiera ser citado, o el del domicilio del demandado.",
@@ -1563,7 +1478,7 @@
         },
         {
             "pregunta": "Aitor ha recibido comunicación por escrito de su empresa informándole de un cambio en su jornada y horario laboral por razones económicas y productivas. El trabajador no está conforme con este cambio en su relación laboral. ¿Tiene derecho en este caso a extinguir su contrato?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 3,
             "respuestas": [
                 "Sí. Aitor puede solicitar la extinción de su contrato, pero no tendrá derecho a indemnización alguna.",
                 "No. Aitor debe aceptar en todo caso la modificación de la empresa dado que está amparada en razones económicas y organizativas.",
@@ -1572,8 +1487,8 @@
             ]
         },
         {
-            "pregunta": "Una empresa que cuenta con trescientos ochenta trabajadores se plantea, ante las dificultades económicas que atraviesa, introducir ciertos cambios en el abono de las comisiones que perciben en el Departamento Comercial, que cuenta con cuarenta y cinco empleados. ¿Cómo se calificaría esta decisión empresarial? 42",
-            "respuestaCorrecta": "",
+            "pregunta": "Una empresa que cuenta con trescientos ochenta trabajadores se plantea, ante las dificultades económicas que atraviesa, introducir ciertos cambios en el abono de las comisiones que perciben en el Departamento Comercial, que cuenta con cuarenta y cinco empleados. ¿Cómo se calificaría esta decisión empresarial?",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "Se trata de una modificación de carácter colectivo ya que afecta al menos a treinta trabajadores en una empresa que cuenta con más de trescientos.",
                 "Se trata de una modificación individual de las condiciones de trabajo ya que afecta a menos de cincuenta empleados en una empresa con más de trescientos trabajadores.",
@@ -1583,7 +1498,7 @@
         },
         {
             "pregunta": "A la empleada Cecilia la empresa ZZXX le ha notificado la fecha de disfrute de sus vacaciones y no está conforme, por lo que se plantea presentar una demanda. ¿Puede hacerlo directamente ante el Juzgado de lo Social o es imprescindible el intento previo de conciliación o mediación?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "Puede hacerlo directamente ya que el proceso de vacaciones no exige conciliación previa.",
                 "Debe presentar papeleta de conciliación ante el servicio administrativo correspondiente al ser requisito previo para tramitar estos procesos.",
@@ -1593,7 +1508,7 @@
         },
         {
             "pregunta": "Guzmán y Eugenia, trabajadores de la misma empresa, presentan por separado sendas demandas contra la misma reclamando un complemento de productividad previsto en el convenio colectivo de aplicación. La primera demanda fue la de Eugenia y después presentó demanda Guzmán recayendo en Juzgados distintos. ¿Pueden acumularse estas demandas?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "Los procedimientos de reclamación de cantidad no pueden acumularse nunca.",
                 "Los procedimientos pueden acumularse de oficio o a instancia de parte y corresponderá conocer al Juzgado al que se repartió la primera demanda.",
@@ -1603,7 +1518,7 @@
         },
         {
             "pregunta": "Ana ha permanecido en situación de incapacidad temporal durante ciento setenta y ocho días como consecuencia de un accidente de trabajo que determinó que la Inspección de Trabajo levantara Acta de infracción de medidas de seguridad y salud en el trabajo. ¿Tendría derecho a algún incremento sobre la prestación económica percibida?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 2,
             "respuestas": [
                 "No. Solo se incrementan las prestaciones económicas percibidas por incapacidad permanente, absoluta, total o parcial.",
                 "Sí, las prestaciones económicas se aumentarán, pero solo si finalmente se aprecia un delito contra los derechos de los trabajadores por infracción de las normas de prevención de riesgos laborales.",
@@ -1613,17 +1528,17 @@
         },
         {
             "pregunta": "En relación con la intervención de Abogado o Abogada y Graduado o Graduada social en el proceso laboral, ¿cuál de las siguientes afirmaciones es correcta?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 3,
             "respuestas": [
                 "Las partes deben estar asistidas o de Abogado o Abogada o de Graduado o Graduada social desde la presentación de la demanda.",
-                "En la jurisdicción social es facultativa la intervención de estos profesionales. 43",
+                "En la jurisdicción social es facultativa la intervención de estos profesionales.",
                 "Si el demandante pretende asistir con Abogado o Abogada deberá indicarlo en la demanda. En estos casos, el demandado necesariamente deberá intervenir en el procedimiento con Abogado o Abogada o con Graduado o Graduada social.",
                 "La intervención de estos profesionales tendrá carácter facultativo en la instancia. Sin embargo, en el recurso de suplicación los litigantes habrán de estar defendidos por profesional de la Abogacía o representados técnicamente por Graduado o Graduada social colegiado o colegiada. En el recurso de casación y en las actuaciones procesales ante el Tribunal Supremo será preceptiva la defensa de Abogado o Abogada."
             ]
         },
         {
             "pregunta": "Tras la celebración de un juicio por reclamación de salarios por cuantía inferior a 3.000 €, ¿puede el juez dictar sentencia oral?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "No. En el proceso laboral no está previsto el dictado de sentencias orales.",
                 "Sí. Dado que por razón de la cuantía no procede recurso de suplicación el Juez podrá dictar sentencia de viva voz al terminar el juicio.",
@@ -1633,7 +1548,7 @@
         },
         {
             "pregunta": "Mariana recibe el alta médica por agotamiento del plazo de 365 días de prestación de incapacidad temporal. No conforme con la resolución administrativa decide presentar demanda. ¿Es preceptivo el agotamiento de la vía administrativa previa?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "Sí. Mariana debe formular reclamación previa ante la Entidad gestora como requisito necesario para presentar su demanda.",
                 "No. Aunque en materia de prestaciones de Seguridad Social es requisito necesario para formular demanda la presentación de reclamación previa, se exceptúan los procesos de impugnación de alta médica por agotamiento del plazo de duración de trescientos sesenta y cinco días de incapacidad temporal.",
@@ -1643,17 +1558,17 @@
         },
         {
             "pregunta": "Durante una vista, Luz, Abogada de la empresa DDZZ, propone como prueba la reproducción en el acto de la grabación de unas imágenes tomadas en el centro de trabajo sin conocimiento ni consentimiento de la plantilla de la empresa. Manuel, Abogado del trabajador, no está de acuerdo. ¿Cómo debe proceder si entiende que existe vulneración de un derecho fundamental?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 3,
             "respuestas": [
                 "Si entiende que en la obtención de la prueba se han podido vulnerar derechos fundamentales o libertades públicas, se deberá formular protesta formal, una vez que sea admitida por el órgano judicial.",
                 "Si se entiende que en la obtención de la prueba se han podido vulnerar derechos fundamentales o libertades públicas, esta cuestión deberá suscitarse en el momento de la proposición de prueba y el Juez o Tribunal, tras oír a las partes y, en su caso, practicar prueba, resolverá en el acto. Contra esta resolución no cabe recurso.",
                 "Las cuestiones relativas a vulneración de derechos fundamentales y libertades públicas en la obtención de las pruebas en el proceso laboral es cuestión que deberá plantearse en el momento de anunciar recurso de suplicación.",
-                "Si se entiende que en la obtención de la prueba se han podido vulnerar derechos fundamentales o libertades públicas, esta cuestión deberá suscitarse en el momento de la proposición de prueba, 44 y el Juez o Tribunal, tras oír a las partes y, en su caso, practicar prueba, resolverá en el acto. Contra esta resolución solo cabrá reposición que se resolverá oralmente."
+                "Si se entiende que en la obtención de la prueba se han podido vulnerar derechos fundamentales o libertades públicas, esta cuestión deberá suscitarse en el momento de la proposición de prueba, y el Juez o Tribunal, tras oír a las partes y, en su caso, practicar prueba, resolverá en el acto. Contra esta resolución solo cabrá reposición que se resolverá oralmente."
             ]
         },
         {
             "pregunta": "Ricardo recibe carta de despido de la empresa AABB fundada en motivos disciplinarios y acude a Sira, su Abogada, porque quiere impugnar judicialmente la decisión empresarial. ¿Cuál es el plazo para presentar la demanda?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "El trabajador podrá reclamar contra el despido dentro de los veinte días hábiles siguientes a aquel en que se hubiera producido.",
                 "El trabajador dispone de veinte días naturales para presentar demanda.",
@@ -1663,7 +1578,7 @@
         },
         {
             "pregunta": "Eva impugnó judicialmente la decisión empresarial de modificación sustancial de condiciones de trabajo consistente en traslado de centro de trabajo con cambio de residencia amparada en causas objetivas. Tras la tramitación del procedimiento, recibe notificación de sentencia que declara justificada dicha decisión. ¿Qué consecuencias tiene este pronunciamiento?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 3,
             "respuestas": [
                 "La sentencia que declare justificada la decisión empresarial determina la obligación de Eva de aceptar el traslado de centro de trabajo con cambio de residencia.",
                 "La trabajadora podrá solicitar ser repuesta en sus condiciones anteriores de trabajo.",
@@ -1673,27 +1588,27 @@
         },
         {
             "pregunta": "El proceso de conflicto colectivo…",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 1,
             "respuestas": [
                 "Tiene naturaleza ordinaria.",
                 "Tiene carácter urgente. Además la preferencia en el despacho de estos asuntos será absoluta sobre cualesquiera otros, salvo los de tutela de los derechos fundamentales y libertades públicas.",
                 "Es un proceso urgente y preferente respecto de otros, salvo los de tutela de derechos fundamentales y libertades públicas y los de conciliación de vida personal, familiar y laboral.",
-                "Es un proceso urgente pero no preferente. Preguntas de reserva"
+                "Es un proceso urgente pero no preferente."
             ]
         },
         {
             "pregunta": "En materia de recursos en el proceso laboral sobre impugnación de sanción, ¿cuál de las siguientes respuestas es la correcta?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 0,
             "respuestas": [
                 "No procederá recurso de suplicación, entre otros, en los procesos relativos a impugnación de sanción por falta que no sea muy grave, así como por falta muy grave no confirmada judicialmente.",
                 "En los procesos de sanción no cabe recurso de suplicación.",
-                "Solo procede recurso de suplicación en los procesos de sanción cuando se trata de falta calificada como muy grave. 45",
+                "Solo procede recurso de suplicación en los procesos de sanción cuando se trata de falta calificada como muy grave.",
                 "En los procesos relativos a impugnación de sanción siempre cabe recurso de suplicación."
             ]
         },
         {
             "pregunta": "Jordi ha obtenido una sentencia favorable frente al Ayuntamiento para el que viene prestando servicios laborales desde hace veinte años. Pese a que han transcurrido varias semanas desde su firmeza, la Entidad Local no procede a cumplir lo resuelto. ¿Puede Jordi acudir al Juzgado a solicitar la ejecución forzosa?",
-            "respuestaCorrecta": "",
+            "respuestaCorrecta": 3,
             "respuestas": [
                 "Una vez alcance firmeza la sentencia, la parte interesada puede en cualquier momento solicitar la ejecución forzosa al Juzgado.",
                 "Es el órgano judicial quien en sentencia indicará, en todo caso, el plazo con el que cuenta la Administración o Entidad pública demandada para ejecutarla.",
