@@ -1,6 +1,6 @@
 <?php
 
-include_once(__DIR__ . '\.\classes\TestFile.php');
+include_once(__DIR__ . '\..\classes\TestFile.php');
 
 /**
  * @link https://www.mjusticia.gob.es/es/Ciudadano/EmpleoPublico/Documents/PLANTILLA%20PROVISIONAL%202022.1%20-%20CASTELLANO.pdf
