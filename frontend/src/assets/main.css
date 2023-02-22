@@ -1,0 +1,39 @@
+@import "./helpers.css";
+@import "./elements/button.css";
+
+:root {
+  --main-bg-color: #AD8B73;
+  --main-white-color: #F5F5F5;
+}
+
+* {
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+  color: var(--main-white-color);
+}
+
+main {
+  min-height: 100vh;
+  background-color: var(--main-bg-color);
+}
+
+#first-section {
+  height: fit-content;
+  display: flex;
+}
+
+#website-title {
+  font-weight: bold;
+}
+
+#main-divider {
+  background-color: var(--main-white-color);
+  border: 2px solid var(--main-white-color);
+  --v-border-opacity: .8;
+  height: 400px;
+}
+
+.main-box-col {
+  max-height: 300px;
+}

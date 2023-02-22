@@ -8,6 +8,7 @@ import router from "./router";
  * Vuetify
  * {@link https://next.vuetifyjs.com/en/getting-started/installation/}
  */
+import "@mdi/font/css/materialdesignicons.css";
 import "vuetify/styles";
 import { createVuetify } from "vuetify";
 import * as components from "vuetify/components";

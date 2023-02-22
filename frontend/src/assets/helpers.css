@@ -1,0 +1,31 @@
+.h-100-vh {
+	height: 100vh;
+}
+
+.h-90-vh {
+	height: 90vh;
+}
+
+.h-100 {
+	height: 100%;
+}
+
+.mx-h-75 {
+	max-width: 75%;
+}
+
+.mt-n17 {
+	margin-top: -68px !important;
+}
+
+.mt-n18 {
+	margin-top: -72px !important;
+}
+
+.mt-n19 {
+	margin-top: -76px !important;
+}
+
+.mt-n20 {
+	margin-top: -80px !important;
+}
