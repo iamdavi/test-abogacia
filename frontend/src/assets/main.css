@@ -2,8 +2,9 @@
 @import "./elements/button.css";
 
 :root {
-  --main-bg-color: #AD8B73;
+  --main-brown-color: #AD8B73;
   --main-white-color: #F5F5F5;
+  --v-selection-control-size: 20px;
 }
 
 * {
@@ -15,7 +16,7 @@
 
 main {
   min-height: 100vh;
-  background-color: var(--main-bg-color);
+  background-color: var(--main-brown-color);
 }
 
 #first-section {
@@ -36,4 +37,9 @@ main {
 
 .main-box-col {
   max-height: 300px;
+}
+
+
+.question-list-option > .v-selection-control__wrapper {
+	height: 26px !important;
 }

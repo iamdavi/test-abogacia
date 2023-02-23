@@ -1,39 +1,12 @@
 <script setup>
-import { ref } from 'vue'
-import SlideContentComponent from '@/components/home/SlideContentComponent.vue'
+import { testType } from '../stores/testType'
 
-const slides = ref([
-	{
-		title: 'Todos los test',
-		text: `Prueba tu conocimiento en todas las materias con test generales en 
-			los que se mezclan preguntas de todas las modalidades disponibles.`,
-		button: {
-			text: 'comenzar',
-			icon: '',
-			path: ''
-		}
-	},
-	{
-		title: 'Test por año',
-		text: `Prueba tu conocimiento en todas las materias con test generales en 
-			los que se mezclan preguntas de todas las modalidades disponibles.`,
-		button: {
-			text: 'comenzar',
-			icon: '',
-			path: ''
-		}
-	},
-	{
-		title: 'Test por especialidad',
-		text: `Prueba tu conocimiento en todas las materias con test generales en 
-			los que se mezclan preguntas de todas las modalidades disponibles.`,
-		button: {
-			text: 'comenzar',
-			icon: '',
-			path: ''
-		}
-	}
-])
+import AllTestSlideCompoent from  '../components/home/AllTestSlideComponent.vue'
+import YearTestSlideCompoent from '../components/home/YearTestSlideComponent.vue'
+import TypeTestSlideCompoent from '../components/home/TypeTestSlideComponent.vue'
+
+const testTypeStore = testType()
+
 </script>
 
 <template>
@@ -54,17 +27,25 @@ const slides = ref([
 					hide-delimiter-background
 					height="275"
 				>
-					<v-carousel-item
-						v-for="(slide, i) in slides"
-						:key="i"
-					>
-						<SlideContentComponent 
-							:title="slide.title" 
-							:text="slide.text" 
-							:button="slide.button" 
-						></SlideContentComponent>
+					<v-carousel-item >
+						<AllTestSlideCompoent />
+					</v-carousel-item>
+					<v-carousel-item >
+						<YearTestSlideCompoent />
+					</v-carousel-item>
+					<v-carousel-item >
+						<TypeTestSlideCompoent />
 					</v-carousel-item>
 				</v-carousel>
+				<v-btn 
+					to="/test"
+					class="main-white-button"
+					:rounded="0" 
+					:disabled="testTypeStore.type == undefined ? true : false"
+					append-icon="mdi-chevron-right"
+				>
+					Comenzar
+				</v-btn>
 			</v-col>
 		</v-row>
 		<v-row class="mt-n20">

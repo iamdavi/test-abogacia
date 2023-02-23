@@ -1,8 +1,14 @@
 .main-white-button .v-btn__content {
-	color: var(--main-bg-color);
+	color: var(--main-brown-color);
 	font-weight: bold;
 }
 
 .main-white-button span i {
-	color: var(--main-bg-color);
+	color: var(--main-brown-color);
+}
+
+.active-chip-brown {
+	background-color: var(--main-white-color);
+	color: var(--main-brown-color);
+	font-weight: bold;
 }
