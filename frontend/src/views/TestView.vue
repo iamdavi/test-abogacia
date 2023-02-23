@@ -1,7 +1,8 @@
-<script>
-export default {
-	
-}
+<script setup>
+import { testType } from '../stores/testType'
+
+const testTypeStore = testType()
+
 </script>
 
 <template>
@@ -68,9 +69,10 @@ export default {
 						</v-row>
 					</v-col>
 					<v-col cols="6">
-						<v-card variant="outlined">
+						<v-card variant="outlined" min-height="300" class="d-flex align-end flex-column">
 							<v-toolbar
 								color="rgba(0, 0, 0, 0)"
+								class="w-100"
 							>
 								<v-toolbar-title class="text-overline">
 									N 1
@@ -87,33 +89,35 @@ export default {
 								<h4>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ad labore reprehenderit animi nobis id assumenda cupiditate magni dignissimos itaque, inventore repudiandae blanditiis fugiat quas qui repellendus expedita voluptatem officiis dolores!</h4>
 							</v-card-text>
 							<v-card-actions class="justify-end">
-								<v-btn variant="outlined">Siguiente</v-btn>
+								<v-btn variant="outlined" @click="testTypeStore.nextStep()">Siguiente</v-btn>
 							</v-card-actions>
-							<v-sheet
-								class="mx-auto question-stepper"
-								max-width="600"
-							>
-								<v-slide-group
-									show-arrows
-								>
-									<v-slide-group-item
-										v-for="n in 25"
-										:key="n"
-										v-slot="{ isSelected, toggle }"
-									>
-										<v-btn
-											class="ma-2"
-											:variant="isSelected ? undefined : 'outlined'"
-											:color="isSelected ? 'brown-lighten-3' : 'transparent'"
-											text-color="brown"
-											@click="toggle"
-										>
-											{{ n }}
-										</v-btn>
-									</v-slide-group-item>
-								</v-slide-group>
-							</v-sheet>
 						</v-card>
+						<v-sheet
+							class="mx-auto question-stepper"
+							max-width="425"
+						>
+							<v-slide-group
+								center-active
+								show-arrows
+								v-model="testTypeStore.step"
+							>
+								<v-slide-group-item
+									v-for="n in 25"
+									:key="n"
+									v-slot="{ isSelected, toggle }"
+								>
+									<v-chip
+										class="ma-2"
+										label
+										:color="isSelected ? 'white' : 'brown-lighten-3'"
+										text-color="brown"
+										@click="toggle"
+									>
+										{{ n }}
+									</v-chip>
+								</v-slide-group-item>
+							</v-slide-group>
+						</v-sheet>
 					</v-col>
 				</v-row>
 			</v-col>

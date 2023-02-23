@@ -5,12 +5,19 @@ export const testType = defineStore("testType", {
     type: undefined,
     year: undefined,
     modality: undefined,
+    disableButton: true,
+    step: 0,
   }),
 
   actions: {
-    setType(value, year = undefined) {
-      this.type = value;
+    setType(type, year = undefined) {
+      this.type = type;
       this.year = year;
+      this.disableButton =
+        type == undefined || (type == "year" && year == undefined);
+    },
+    nextStep() {
+      this.step += 1;
     },
   },
 });

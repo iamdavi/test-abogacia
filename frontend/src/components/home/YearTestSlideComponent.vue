@@ -4,18 +4,7 @@ import { testType } from '../../stores/testType'
 
 const testTypeStore = testType()
 
-const yearSelected = ref(undefined)
-
-const items = ref([
-	{
-		year: 2022,
-		selected: false
-	},
-	{
-		year: 2021,
-		selected: false
-	}
-])
+const items = ref([2022, 2021])
 </script>
 
 <template>
@@ -36,16 +25,16 @@ const items = ref([
 				<v-chip-group
 					selected-class="active-chip-brown"
 					column
-					v-model="yearSelected"
-					@update:model-value="testTypeStore.setType(yearSelected)"
+					v-model="testTypeStore.year"
+					@update:model-value="testTypeStore.setType('year', testTypeStore.year)"
 				>
 					<v-chip
 						v-for="(item, i) in items"
 						:key="i"
-						:value="item.year"
+						:value="item"
 						size="large"
 					>
-						{{ item.year }}
+						{{ item }}
 					</v-chip>
 				</v-chip-group>
 			</div>

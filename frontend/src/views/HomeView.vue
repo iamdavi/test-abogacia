@@ -26,6 +26,7 @@ const testTypeStore = testType()
 					:show-arrows="false"
 					hide-delimiter-background
 					height="275"
+					@update:model-value="testTypeStore.setType(undefined)"
 				>
 					<v-carousel-item >
 						<AllTestSlideCompoent />
@@ -41,7 +42,7 @@ const testTypeStore = testType()
 					to="/test"
 					class="main-white-button"
 					:rounded="0" 
-					:disabled="testTypeStore.type == undefined ? true : false"
+					:disabled="testTypeStore.disableButton"
 					append-icon="mdi-chevron-right"
 				>
 					Comenzar
