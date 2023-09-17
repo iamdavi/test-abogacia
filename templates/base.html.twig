@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}Test Acceso Abogacía{% endblock %}</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="icon" href="{{ asset('img/test_abogacia_logo.svg') }}">
+    {% block stylesheets %}
+    {{ encore_entry_link_tags('app') }}
+    {% endblock %}
+
+    {% block javascripts %}
+    {{ encore_entry_script_tags('app') }}
+    {% endblock %}
+</head>
+
+<body>
+    <nav class="navbar navbar-expand-lg bg-body-tertiary p-0">
+        <div class="container-fluid">
+            <a class="navbar-brand d-flex align-items-center" href="{{ path('homepage') }}">
+                <img src="{{ asset('img/test_abogacia_logo.svg') }}" alt="Test de acceso" width="30" height="24">
+                {# <span class="ms-3"> Test acceso abogacía </span> #}
+            </a>
+            <button class="navbar-toggler p-1 m-1" type="button" data-bs-toggle="collapse" data-bs-target="#navbarText"
+                aria-controls="navbarText" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse" id="navbarText">
+                <ul class="navbar-nav me-auto mb-2 mb-lg-0">
+                    <li class="nav-item">
+                        <a class="nav-link active fs-5" aria-current="page" href="{{ path('homepage') }}">Inicio</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link fs-5" href="#">Años</a>
+                    </li>
+                    <li class="nav-item">
+                        <a class="nav-link fs-5" href="#">Especialidad</a>
+                    </li>
+                </ul>
+                <span class="navbar-text p-0 text-end">
+                    {% if app.user %}
+                    <div class="dropdown">
+                        <button class="btn btn-sm" type="button" data-bs-toggle="dropdown" aria-expanded="false">
+                            <i class="bi bi-person-circle fs-3"></i>
+                        </button>
+                        <ul class="dropdown-menu dropdown-menu-end">
+                            <li><a class="dropdown-item" href="#">Perfil</a></li>
+                            <li><a class="dropdown-item text-danger" href="{{ path('app_logout') }}">Cerrar sesión</a>
+                            </li>
+                        </ul>
+                    </div>
+                    {% else %}
+                    <a class="btn" href="{{ path('app_login') }}">
+                        <i class="bi bi-box-arrow-in-right fs-3"></i>
+                    </a>
+                    {% endif %}
+                </span>
+            </div>
+        </div>
+    </nav>
+    {% block body %}{% endblock %}
+</body>
+
+</html>

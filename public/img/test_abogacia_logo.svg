@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Created with Vectornator (http://vectornator.io/) -->
+<svg height="100%" stroke-miterlimit="10" style="fill-rule:nonzero;clip-rule:evenodd;stroke-linecap:round;stroke-linejoin:round;" version="1.1" viewBox="718.984 293.481 199.207 151.907" width="100%" xml:space="preserve" xmlns="http://www.w3.org/2000/svg" xmlns:vectornator="http://vectornator.io" xmlns:xlink="http://www.w3.org/1999/xlink">
+<defs>
+<linearGradient gradientTransform="matrix(1 0 0 1 0 0)" gradientUnits="userSpaceOnUse" id="LinearGradient" x1="798.383" x2="888.383" y1="349.117" y2="349.117">
+<stop offset="0" stop-color="#df9a3f"/>
+<stop offset="1" stop-color="#dcac57"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1 0 0 1 0 0)" gradientUnits="userSpaceOnUse" id="LinearGradient_2" x1="798.383" x2="858.383" y1="389.753" y2="389.753">
+<stop offset="0" stop-color="#df9a3f"/>
+<stop offset="1" stop-color="#dcac57"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1 0 0 1 0 0)" gradientUnits="userSpaceOnUse" id="LinearGradient_3" x1="718.984" x2="918.191" y1="308.481" y2="308.481">
+<stop offset="0" stop-color="#df9a3f"/>
+<stop offset="1" stop-color="#dcac57"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1 0 0 1 0 0)" gradientUnits="userSpaceOnUse" id="LinearGradient_4" x1="758.901" x2="788.901" y1="389.753" y2="389.753">
+<stop offset="0" stop-color="#df9a3f"/>
+<stop offset="1" stop-color="#dcac57"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1 0 0 1 0 0)" gradientUnits="userSpaceOnUse" id="LinearGradient_5" x1="758.901" x2="788.901" y1="349.117" y2="349.117">
+<stop offset="0" stop-color="#df9a3f"/>
+<stop offset="1" stop-color="#dcac57"/>
+</linearGradient>
+<linearGradient gradientTransform="matrix(1 0 0 1 0 0)" gradientUnits="userSpaceOnUse" id="LinearGradient_6" x1="758.901" x2="788.901" y1="430.388" y2="430.388">
+<stop offset="0" stop-color="#df9a3f"/>
+<stop offset="1" stop-color="#dcac57"/>
+</linearGradient>
+</defs>
+<clipPath id="ArtboardFrame">
+<rect height="151.907" width="199.207" x="718.984" y="293.481"/>
+</clipPath>
+<g clip-path="url(#ArtboardFrame)" id="Layer" vectornator:layerName="Layer">
+<g opacity="1" vectornator:layerName="Grupo 1">
+<path d="M798.383 340.117C798.383 336.803 800.347 334.117 802.768 334.117L883.998 334.117C886.42 334.117 888.383 336.803 888.383 340.117L888.383 358.117C888.383 361.431 886.42 364.117 883.998 364.117L802.768 364.117C800.347 364.117 798.383 361.431 798.383 358.117L798.383 340.117Z" fill="url(#LinearGradient)" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rectángulo 4"/>
+<path d="M798.383 380.753C798.383 377.439 800.17 374.753 802.375 374.753L854.392 374.753C856.596 374.753 858.383 377.439 858.383 380.753L858.383 398.753C858.383 402.066 856.596 404.753 854.392 404.753L802.375 404.753C800.17 404.753 798.383 402.066 798.383 398.753L798.383 380.753Z" fill="url(#LinearGradient_2)" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rectángulo 5"/>
+<path d="M718.984 299.481C718.984 296.168 721.002 293.481 723.493 293.481L913.682 293.481C916.172 293.481 918.191 296.168 918.191 299.481L918.191 317.481C918.191 320.795 916.172 323.481 913.682 323.481L723.493 323.481C721.002 323.481 718.984 320.795 718.984 317.481L718.984 299.481Z" fill="url(#LinearGradient_3)" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rectángulo 7"/>
+<path d="M758.901 382.753C758.901 378.334 762.483 374.753 766.901 374.753L780.901 374.753C785.32 374.753 788.901 378.334 788.901 382.753L788.901 396.753C788.901 401.171 785.32 404.753 780.901 404.753L766.901 404.753C762.483 404.753 758.901 401.171 758.901 396.753L758.901 382.753Z" fill="url(#LinearGradient_4)" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rectángulo 8"/>
+<path d="M758.901 342.117C758.901 337.699 762.483 334.117 766.901 334.117L780.901 334.117C785.32 334.117 788.901 337.699 788.901 342.117L788.901 356.117C788.901 360.535 785.32 364.117 780.901 364.117L766.901 364.117C762.483 364.117 758.901 360.535 758.901 356.117L758.901 342.117Z" fill="url(#LinearGradient_5)" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rectángulo 10"/>
+<path d="M758.901 423.388C758.901 418.97 762.483 415.388 766.901 415.388L780.901 415.388C785.32 415.388 788.901 418.97 788.901 423.388L788.901 437.388C788.901 441.806 785.32 445.388 780.901 445.388L766.901 445.388C762.483 445.388 758.901 441.806 758.901 437.388L758.901 423.388Z" fill="url(#LinearGradient_6)" fill-rule="nonzero" opacity="1" stroke="none" vectornator:layerName="Rectángulo 9"/>
+</g>
+</g>
+</svg>
